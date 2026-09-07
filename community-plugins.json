@@ -27461,13 +27461,6 @@
     "repo": "hayribakici/obsidian-scratchblocks"
   },
   {
-    "id": "marp-tikz-plus",
-    "name": "Marp Plus",
-    "author": "Kevin",
-    "description": "Build presentations the way you build software: an AI-friendly workflow, a professional authoring experience, and the precision that scientific and engineering presentations demand. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kevinyuan/obsidian-marp-plus"
-  },
-  {
     "id": "article-annotator",
     "name": "Article Annotator",
     "author": "Juno",
@@ -33871,6 +33864,13 @@
     "author": "Sonophage",
     "description": "Pulls watched movies (Trakt) and full-album listens (Last.fm) into reference notes via Templater. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sonophage/stardust-importer"
+  },
+  {
+    "id": "rootweave",
+    "name": "Rootweave",
+    "author": "Max Oliver",
+    "description": "A conlang workspace for worldbuilders — manage roots, build words, validate grammar, and translate. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "molive6316github/rootweave"
   },
   {
     "id": "chroma-key",
@@ -51791,5 +51791,19 @@
     "author": "diva",
     "description": "Right-click selected text in an editor to add it as a Dida365/TickTick task, reusing the DidaSync plugin connection. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "divaliu1408/selection-to-didaTask"
+  },
+  {
+    "id": "quick-switch-sidebar",
+    "name": "Quick Switch Sidebar",
+    "author": "travisluong",
+    "description": "Browse folders and immediately open selected notes without leaving the sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "travisluong/quick-switch-sidebar"
+  },
+  {
+    "id": "context-focus",
+    "name": "Context Focus",
+    "author": "Bag of Tips",
+    "description": "Focus hovered list branches or paragraphs while dimming nearby content. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bagoftips/Context-Focus"
   }
 ]
