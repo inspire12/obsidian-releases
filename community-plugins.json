@@ -22407,6 +22407,13 @@
     "repo": "jareika/TTRPG-Tools-Publish"
   },
   {
+    "id": "flow-state",
+    "name": "Flowstate",
+    "author": "findflowstate",
+    "description": "Turn handwriting and voice memos into text - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "findflowstate/obsidian-flow-state"
+  },
+  {
     "id": "steamgriddb-embedder",
     "name": "SteamGridDB Embedder",
     "author": "abduznik",
@@ -33521,13 +33528,6 @@
     "author": "Viggo Meesters",
     "description": "Read-only alternate navigation pane for folders/files with custom sorting. Does not replace or patch Obsidian File Explorer. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "viggomeesters/obsidian-folder-sort-view"
-  },
-  {
-    "id": "stashpad",
-    "name": "Stashpad",
-    "author": "Grub Basket",
-    "description": "A chat-style, nested-notes workspace: rapid capture, outliner navigation, fast search, tasks, and per-folder templates, with one-click Open Knowledge Format (OKF) export for LLMs and agents. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "grub-basket/SP"
   },
   {
     "id": "html-experience",
@@ -46221,6 +46221,13 @@
     "repo": "guchang/excalicap"
   },
   {
+    "id": "synced-vaults",
+    "name": "Pantalytics Knap",
+    "author": "pantalytics",
+    "description": "Your whole vault on Knap, on desktop and on phone, with real-time collaborative editing on all of it. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pantalytics/knap-obsidian"
+  },
+  {
     "id": "mynary",
     "name": "Mynary Dictionary",
     "author": "ZhyFei314",
@@ -46462,7 +46469,7 @@
     "id": "cfr-mermaid-size",
     "name": "CFR Mermaid Size",
     "author": "cferrugem",
-    "description": "Drag any Mermaid diagram to resize it and right-click to align it. Desktop and mobile keep independent sizes, and everything is stored inside the block itself, so it survives re-renders and travels between your devices. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Resize Mermaid diagrams by dragging a corner handle, and align them left, center, or right. The size is saved as a Mermaid comment inside the block, so it survives re-renders and syncs with the note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cferrugem/obsidian-cfr-mermaid-size"
   },
   {
@@ -47666,7 +47673,7 @@
     "id": "k-tech-update-guard",
     "name": "K-Tech Update Guard",
     "author": "k-tech-studio",
-    "description": "Check community updates on demand, then install only the ones you select. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Check community plugin and theme updates on demand, then install only the ones you select. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "crossbeat461-a11y/k-tech-update-guard"
   },
   {
@@ -50288,13 +50295,6 @@
     "repo": "larry-biu/redlark-receiver"
   },
   {
-    "id": "icor-for-life-interface",
-    "name": "ICOR for Life - Interface",
-    "author": "Paperless Movement S.L.",
-    "description": "The vault's chrome in one place: hide the ribbon and Obsidian's own controls, and give any folder a colour, an icon and a label. Writes no CSS; the INKLINE theme draws it. Part of the ICOR for Life suite. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "myicor/icor-for-life-interface"
-  },
-  {
     "id": "tag-group-organizer",
     "name": "Tag Group Organizer",
     "author": "aki",
@@ -50604,7 +50604,7 @@
   },
   {
     "id": "film-tracker",
-    "name": "Film Tracker",
+    "name": "Film + Anime-Manga Tracker",
     "author": "erklig",
     "description": "Add a film to your vault as a note with metadata and a poster. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yunuskarasu/obsidian-film-tracker"
@@ -51604,13 +51604,6 @@
     "repo": "vanabel/obsidian-geogebra"
   },
   {
-    "id": "qiaomu-ai-rss",
-    "name": "Qiaomu AI RSS",
-    "author": "向阳乔木",
-    "description": "Read Qiaomu and personal RSS feeds, discover independent blogs, and add article links to Daily Notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "joeseesun/qiaomu-ai-rss"
-  },
-  {
     "id": "latex-inline-block-toggle",
     "name": "LaTeX Inline Block Toggle",
     "author": "frank-smith",
@@ -51672,5 +51665,33 @@
     "author": "Thomas Roedl",
     "description": "Highlight text or draw a box on a PDF and get a note in the vault for it, with a deep link back, a card on any canvas by drag and drop, and a sidebar of every highlight in the open PDF. Part of the ICOR for Life suite. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "myicor/icor-for-life-pdf-annotation"
+  },
+  {
+    "id": "png-webp-companion",
+    "name": "PNG WebP Companion",
+    "author": "Irisable",
+    "description": "Preserves PNG originals, creates and links same-name WebP companions, follows renames, and normalizes PNG filenames. Requires ImageMagick. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "irisable/png-webp-companion"
+  },
+  {
+    "id": "bookview",
+    "name": "BookView",
+    "author": "nonkuri",
+    "description": "A PDF viewer with two-page spread support for right-to-left bound (vertical Japanese) books, including an Acrobat-style cover page option. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nonkuri/obsidian-bookview"
+  },
+  {
+    "id": "ultisync",
+    "name": "UltiSync",
+    "author": "Sachet Sangamesh Mulimani",
+    "description": "Synchronize selected vault files with a GitHub repository using the GitHub REST API. Works on desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "msachet5/obsidian-ultisync"
+  },
+  {
+    "id": "insert-image-plus",
+    "name": "Insert Image Plus",
+    "author": "Yosuke Tanji",
+    "description": "Insert images and Excalidraw drawings from a thumbnail grid grouped by filename prefix (icon, logo, ...), and manage them one file at a time. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yosukedesign/insert-image-plus"
   }
 ]
