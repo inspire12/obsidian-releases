@@ -34062,6 +34062,13 @@
     "repo": "18621063286/xBookmarksObsidian"
   },
   {
+    "id": "inline-fold",
+    "name": "Inline Fold",
+    "author": "Mohamed Saleh",
+    "description": "Extend Markdown capabilities by adding inline fold, encapsulate text anywhere in the note, create spoilers, even flashcards for active recall. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mohamedsaleh0-0/obsidian-inline-fold"
+  },
+  {
     "id": "dictava-sync",
     "name": "Dictava",
     "author": "Dictava",
@@ -51609,6 +51616,13 @@
     "author": "vanabel",
     "description": "Drag .ggb files into notes and interact with GeoGebra constructions inline. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "vanabel/obsidian-geogebra"
+  },
+  {
+    "id": "qiaomu-ai-rss",
+    "name": "Qiaomu AI RSS",
+    "author": "向阳乔木",
+    "description": "Read RSS feeds and local Markdown in a focused reader. Discover blogs and save excerpts to Daily Notes or the current note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "joeseesun/qiaomu-ai-rss"
   },
   {
     "id": "latex-inline-block-toggle",
