@@ -40901,13 +40901,6 @@
     "repo": "fire-university/paperfolio-obsidian"
   },
   {
-    "id": "graph-insight",
-    "name": "Advanced Graph View",
-    "author": "n23eos",
-    "description": "Alternative graph view for large vaults with 3D visualization, clusters, PageRank and color schemes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "n23eos/advanced_graph_view"
-  },
-  {
     "id": "mq",
     "name": "mq",
     "author": "Takahiro Sato",
@@ -51536,7 +51529,7 @@
   {
     "id": "ruune-sync",
     "name": "Ruune Sync",
-    "author": "Joe",
+    "author": "Joe Ruune",
     "description": "Automatically sync your Ruune notes, summaries, and transcripts into your Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "internet-of-humans/ruune-obsidian-plugin"
   },
