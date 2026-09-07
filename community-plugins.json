@@ -17227,6 +17227,13 @@
     "repo": "gapmiss/custom-theme-studio"
   },
   {
+    "id": "todoseq",
+    "name": "TODOseq",
+    "author": "Stephen Cross",
+    "description": "Lightweight keyword-based task tracker using Logseq style keywords.",
+    "repo": "scross01/obsidian-todoseq"
+  },
+  {
     "id": "local-bible-ref",
     "name": "Local Bible Ref",
     "author": "camelchief",
@@ -28061,6 +28068,13 @@
     "author": "moszinet",
     "description": "Sync emails sent to your mail2note address into your vault as Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "moszinet/mail2note-obsidian-plugin"
+  },
+  {
+    "id": "dnd-campaign-manager",
+    "name": "Campaign Codex",
+    "author": "dmderelyn",
+    "description": "Run 5e campaigns with a typed entity graph, session runner, initiative tracker, quest board, and player-facing site export. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dmderelyn/dnd-campaign-manager"
   },
   {
     "id": "gantt-calendar",
@@ -51504,5 +51518,12 @@
     "author": "Pauline Skrypnik",
     "description": "A native-feeling gallery slider for local images and videos with editable Markdown captions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "skrpln/caption-gallery-slider"
+  },
+  {
+    "id": "tabcandy",
+    "name": "Tab Candy",
+    "author": "LVNACY Notes",
+    "description": "Creates a customizable new tab view with backgrounds, quotes, search, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lvnacy-notes/tabcandy"
   }
 ]
