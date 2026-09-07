@@ -27461,6 +27461,13 @@
     "repo": "hayribakici/obsidian-scratchblocks"
   },
   {
+    "id": "marp-tikz-plus",
+    "name": "Marp Plus",
+    "author": "Kevin",
+    "description": "Build presentations the way you build software: an AI-friendly workflow, a professional authoring experience, and the precision that scientific and engineering presentations demand. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kevinyuan/obsidian-marp-plus"
+  },
+  {
     "id": "article-annotator",
     "name": "Article Annotator",
     "author": "Juno",
@@ -30238,6 +30245,13 @@
     "author": "Kostya Struga",
     "description": "Track Readwise reading progress, highlights, heatmaps, and reading inbox notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "free-solo-lab/obsidian-readwise-tracker"
+  },
+  {
+    "id": "open-pdf-translate",
+    "name": "OPEN PDF Translate",
+    "author": "Vetrenar",
+    "description": "Translate PDF documents with overlay, supports OpenRouter, OpenAI, Gemini, Ollama, and custom endpoints. Includes layout detection,  and persistent storage of translations.. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vetrenar/Open-PDF-Translate"
   },
   {
     "id": "codeblock-language-detector",
@@ -51798,5 +51812,12 @@
     "author": "Bag of Tips",
     "description": "Focus hovered list branches or paragraphs while dimming nearby content. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "bagoftips/Context-Focus"
+  },
+  {
+    "id": "annotex-publish",
+    "name": "Annotex",
+    "author": "Epipolar Studios",
+    "description": "Publish the current note to your self-hosted Annotex server so invited colleagues can read it and leave inline, anchored comments. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "epipolarstudios/annotex-obsidian-plugin"
   }
 ]
