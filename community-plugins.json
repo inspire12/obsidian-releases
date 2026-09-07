@@ -32228,6 +32228,13 @@
     "repo": "towishy/owen-exporter"
   },
   {
+    "id": "local-pdf-annotator",
+    "name": "PDF Annotator",
+    "author": "Alexander Tian",
+    "description": "Read PDFs, highlight passages, place page notes, and manage searchable margin annotations stored as local Markdown sidecars. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "alexandert142/Alex-annotator"
+  },
+  {
     "id": "douyin-capture-pro",
     "name": "Douyin Capture Pro",
     "author": "zhaoyaoyuan",
@@ -34067,13 +34074,6 @@
     "author": "GammaFunds",
     "description": "Look up EU regulations, directives and decisions in 24 official languages, plus German, Austrian and Swiss law. Preview legal text from official sources and insert formatted citations into your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gammafunds/European-Law-Lookup"
-  },
-  {
-    "id": "dual-link",
-    "name": "DualLink",
-    "author": "MarcBolo",
-    "description": "将本地和保险库中的文件嵌入到您的文档中。支持图片、音频和视频的内联渲染。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mowdw/DualLink"
   },
   {
     "id": "hypermnesic-companion",
@@ -50204,6 +50204,13 @@
     "repo": "normanchine/obsidian-japanese-reading-assistant"
   },
   {
+    "id": "markdown-memos",
+    "name": "Markdown Memos",
+    "author": "王小",
+    "description": "Capture one memo per Markdown file in an Obsidian-native timeline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tyh-art/markdown-memos"
+  },
+  {
     "id": "hans-safedoc",
     "name": "Hans SafeDoc",
     "author": "Hans Lin 林思翰",
@@ -51490,6 +51497,13 @@
     "author": "richie735",
     "description": "Design and use character sheets for any tabletop RPG. Build a layout on a grid, define your own formulas, and keep every character as a plain markdown note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "richie735/obsidian-sheetsmith"
+  },
+  {
+    "id": "ruune-sync",
+    "name": "Ruune Sync",
+    "author": "Joe",
+    "description": "Automatically sync your Ruune notes, summaries, and transcripts into your Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "internet-of-humans/ruune-obsidian-plugin"
   },
   {
     "id": "oncemarked",
