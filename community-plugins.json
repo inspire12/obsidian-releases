@@ -27443,7 +27443,7 @@
     "id": "marp-tikz-plus",
     "name": "Marp Plus",
     "author": "Kevin",
-    "description": "TikZ diagrams and full Marp presentation support — Slide Navigator, Speaker Notes, and PPTX export. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Build presentations the way you build software: an AI-friendly workflow, a professional authoring experience, and the precision that scientific and engineering presentations demand. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kevinyuan/obsidian-marp-plus"
   },
   {
@@ -32226,13 +32226,6 @@
     "author": "Owen lee",
     "description": "Export SVG embeds as PNG/JPEG and copy or save selected Markdown as HTML. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "towishy/owen-exporter"
-  },
-  {
-    "id": "local-pdf-annotator",
-    "name": "PDF Annotator",
-    "author": "Alexander Tian",
-    "description": "Read PDFs, highlight passages, place page notes, and manage searchable margin annotations stored as local Markdown sidecars. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "alexandert142/Alex-annotator"
   },
   {
     "id": "douyin-capture-pro",
@@ -51553,5 +51546,12 @@
     "author": "emarpiee",
     "description": "Client-side file and folder encryption plugin, 100% compatible with Rclone Crypt. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "emarpiee/obsidian-rcrypt"
+  },
+  {
+    "id": "personal-workbench",
+    "name": "Personal Workbench",
+    "author": "gmsz-1603",
+    "description": "个人工作台（独立视图页签）：顶部统计横幅、查询栏、天气+农历+每日一签、农历万年历（节气/节日/生日/任务）、年度进度、今日任务、生日提醒；左右栏独立滚动。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gmsz-1603/obsidian-personal-workbench"
   }
 ]
