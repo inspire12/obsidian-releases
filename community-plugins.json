@@ -14511,13 +14511,6 @@
     "repo": "anareaty/html-checkboxes"
   },
   {
-    "id": "automatic-linker",
-    "name": "Automatic Linker",
-    "author": "kdnk",
-    "description": "automatically converts plain text file references into wiki links",
-    "repo": "kdnk/obsidian-automatic-linker"
-  },
-  {
     "id": "checkbox-sync",
     "name": "Checkbox Sync",
     "author": "groldsf",
@@ -18802,6 +18795,13 @@
     "repo": "bcs1037/side-bookmark"
   },
   {
+    "id": "feishu-importer",
+    "name": "Feishu Importer",
+    "author": "leon",
+    "description": "Import Feishu cloud docs into your local vault as Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "missmess/obsidian-feishu-importer"
+  },
+  {
     "id": "move-to-new-folder",
     "name": "Move to New Folder",
     "author": "d0d1",
@@ -21341,6 +21341,13 @@
     "author": "daolyap",
     "description": "Adds context menu options to open files and folders in a terminal, with configurable executables/apps for each option. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "daolyap/openterm"
+  },
+  {
+    "id": "floating-quick-note",
+    "name": "Floating Quick Note",
+    "author": "sabosman",
+    "description": "Open a floating always-on-top note window for quick notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sabosman/obisidian-floatingnote"
   },
   {
     "id": "replace-em-dash",
@@ -26476,9 +26483,9 @@
   {
     "id": "karpathywiki",
     "name": "Karpathy LLM Wiki",
-    "author": "Greener-Dalii",
+    "author": "gd4ai",
     "description": "Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept pages, graph-powered Q&A, and local-first privacy. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "green-dalii/obsidian-llm-wiki"
+    "repo": "gd4ai/obsidian-llm-wiki"
   },
   {
     "id": "sync-trakt",
@@ -49406,13 +49413,6 @@
     "repo": "joechen2me/obsidian-nested-markdown-renderer"
   },
   {
-    "id": "gym-app",
-    "name": "Gym Vault",
-    "author": "Ruan",
-    "description": "Your training as plain files in your own vault — a daily dashboard, exercise library, plans, goals, workout history and body stats. No account, no server. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ruanpienaarcode/Gym-Vault"
-  },
-  {
     "id": "lacewing",
     "name": "Lacewing Window Transparency",
     "author": "mohammad",
@@ -51567,5 +51567,33 @@
     "author": "gmsz-1603",
     "description": "个人工作台（独立视图页签）：顶部统计横幅、查询栏、天气+农历+每日一签、农历万年历（节气/节日/生日/任务）、年度进度、今日任务、生日提醒；左右栏独立滚动。 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gmsz-1603/obsidian-personal-workbench"
+  },
+  {
+    "id": "qiaomu-ai-rss",
+    "name": "Qiaomu AI RSS",
+    "author": "向阳乔木",
+    "description": "Read RSS and Atom feeds, discover independent blogs, and save articles as Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "joeseesun/qiaomu-ai-rss"
+  },
+  {
+    "id": "latex-inline-block-toggle",
+    "name": "LaTeX Inline Block Toggle",
+    "author": "frank-smith",
+    "description": "Toggle LaTeX math between inline and display blocks, and merge consecutive block formulas. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jm-frank/Obisian-Latex-inline-block-toggle"
+  },
+  {
+    "id": "gagans-rollover-todos",
+    "name": "Rollover Todos (Gagans)",
+    "author": "Gagans",
+    "description": "Roll over unfinished todos and pinned links, paginate adjacent daily notes, track routine streaks by id, and collect today's edited note links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lacall-gagans-studio/gagans-rollover-todos"
+  },
+  {
+    "id": "gagans-routine-heatmap",
+    "name": "Routine Heatmap (Gagans)",
+    "author": "Gagans",
+    "description": "Paint a yearly heatmap from completed id-tagged routine tasks in daily notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lacall-gagans-studio/gagans-routine-heatmap"
   }
 ]
