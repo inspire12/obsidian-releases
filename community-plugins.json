@@ -26835,7 +26835,7 @@
     "name": "Sherlockeye OSINT",
     "author": "p1ngul1n0",
     "description": "Sherlockeye OSINT API integration for automated intelligence gathering - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "p1ngul1n0/obsidian-sherlockeye-plugin"
+    "repo": "antoniaci/obsidian-sherlockeye-plugin"
   },
   {
     "id": "simple-timeline",
@@ -27438,6 +27438,13 @@
     "author": "hayribakici",
     "description": "Render scratchblocks codeblocks - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hayribakici/obsidian-scratchblocks"
+  },
+  {
+    "id": "marp-tikz-plus",
+    "name": "Marp Plus",
+    "author": "Kevin",
+    "description": "TikZ diagrams and full Marp presentation support — Slide Navigator, Speaker Notes, and PPTX export. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kevinyuan/obsidian-marp-plus"
   },
   {
     "id": "article-annotator",
@@ -33218,7 +33225,7 @@
     "id": "lumina",
     "name": "Lumina",
     "author": "Lumina",
-    "description": "Multilingual AI Assistant & Copilot: Chat with Notes using Any Local LLMs or Cloud APIs. Features RAG, Smart Semantic Vector Search, Auto Embeddings & Autonomous MCP Agent. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Multilingual AI Assistant & Copilot: Chat with Notes using any local LLM or cloud API, and connect with CLI Agents. Features RAG, Smart Semantic Vector Search, Auto Embeddings & Autonomous MCP Agent. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lumina-apps/obsidian-lumina"
   },
   {
@@ -41293,6 +41300,13 @@
     "repo": "dxshelley/ai-translate"
   },
   {
+    "id": "pavel-dashboard",
+    "name": "Omni Workbench",
+    "author": "pavel",
+    "description": "A local-first dashboard for Pavel's existing tasks and knowledge cards. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pavelpeng7/omni-workbench"
+  },
+  {
     "id": "safe-passage",
     "name": "SafePassage",
     "author": "Ji-ho Lee",
@@ -45314,7 +45328,7 @@
     "id": "table-csv",
     "name": "TableCSV",
     "author": "k-tech-studio",
-    "description": "Open CSV files as tables. Create a new CSV from a folder, view with a filter, pin the last row or first column, resize columns, undo or redo edits, copy a selected range, edit cells with Tab or Enter, - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Open CSV as tables. Create a CSV from a folder. Filter and sort without changing the file. Pin last row or first column. Copy, cut, or clear a range. Paste from Excel. Export filtered rows. Offline. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "crossbeat461-a11y/table-csv"
   },
   {
@@ -51525,5 +51539,19 @@
     "author": "LVNACY Notes",
     "description": "Creates a customizable new tab view with backgrounds, quotes, search, and more. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lvnacy-notes/tabcandy"
+  },
+  {
+    "id": "kambas",
+    "name": "Kambas",
+    "author": "emarpiee",
+    "description": "Extend core plugin Canvas with PureRef-like image controls, inline Base64 embedding, and adjustable navigations. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "emarpiee/obsidian-kambas"
+  },
+  {
+    "id": "rcrypt",
+    "name": "RCrypt",
+    "author": "emarpiee",
+    "description": "Client-side file and folder encryption plugin, 100% compatible with Rclone Crypt. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "emarpiee/obsidian-rcrypt"
   }
 ]
