@@ -1553,7 +1553,7 @@
     "name": "Nordic",
     "author": "natowb",
     "repo": "natowb/obsidian-nordic",
-    "screenshot": "obsidian-nordic.png",
+    "screenshot": "assets/obsidian-nordic-full.png",
     "modes": ["dark", "light"]
   },
   {

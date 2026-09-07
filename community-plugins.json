@@ -37548,6 +37548,13 @@
     "repo": "electroluminescent/obsidian-extended-properties"
   },
   {
+    "id": "hybrid-git-sync",
+    "name": "Hybrid Git Sync",
+    "author": "walkskyer",
+    "description": "Cross-platform Git sync plugin. Desktop uses native git and API, mobile uses GitHub/Gitea/GitLab API. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wk-obsidian/HybridGitSync"
+  },
+  {
     "id": "eve-apple-tree",
     "name": "Eve Apple Tree Thinking System",
     "author": "Evelyn Chan",
@@ -50543,7 +50550,7 @@
     "id": "html-gallery",
     "name": "HTML Gallery",
     "author": "kagayakii",
-    "description": "Browse HTML files in your vault as a grid of live thumbnails, search them by title and content, and open the notes that link to them. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Browse the HTML files in your vault as a grid of live thumbnails, search them by title and content, and open the notes that link to them. PDFs, SVGs and images can be shown too. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "violetyk/obsidian-html-gallery"
   },
   {
@@ -51693,5 +51700,54 @@
     "author": "Yosuke Tanji",
     "description": "Insert images and Excalidraw drawings from a thumbnail grid grouped by filename prefix (icon, logo, ...), and manage them one file at a time. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yosukedesign/insert-image-plus"
+  },
+  {
+    "id": "notelets",
+    "name": "Notelets",
+    "author": "Ashly Lorenzana",
+    "description": "Import HTML files as permanent interactive Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "monapdx/Notelets"
+  },
+  {
+    "id": "vault-encrypted",
+    "name": "Vault Encrypted",
+    "author": "hellokunzai",
+    "description": "Hide secrets in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hellokunzai/obsidian-vault-encrypted"
+  },
+  {
+    "id": "color-math",
+    "name": "Color Math",
+    "author": "Aditya RG",
+    "description": "Automatically apply semantic colors to LaTeX and MathJax equations in Obsidian Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "36ty-blip/obsidian-color-math"
+  },
+  {
+    "id": "base-path-updater",
+    "name": "Base Path Updater",
+    "author": "Eric",
+    "description": "Automatically update paths in Bases when folders are renamed or moved, with reviewable undo history. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xeric7/obsidian-base-path-updater"
+  },
+  {
+    "id": "clippings",
+    "name": "Clippings",
+    "author": "rory",
+    "description": "Sync the transcripts and takeaways you save with Clippings into your vault, with control over folders, filenames and note templates. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "roryduffy/clippings-obsidian"
+  },
+  {
+    "id": "canvas-kanban-sync",
+    "name": "Canvas Kanban Sync",
+    "author": "naotobando",
+    "description": "Kanban board on Canvas. Moving a card syncs its Status to the note's frontmatter, with automatic start/completion timestamps and an elapsed-days badge to catch tasks that stall. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "naotobando/canvas-kanban-sync"
+  },
+  {
+    "id": "branch-note",
+    "name": "Branch Note",
+    "author": "elfmedy",
+    "description": "Grow notes into pages with children, using ordinary folders and matching Markdown home notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "elfmedy/branch-note"
   }
 ]
