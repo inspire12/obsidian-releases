@@ -51058,6 +51058,13 @@
     "repo": "nameiskyro/Tidy-YAML"
   },
   {
+    "id": "ion-sync",
+    "name": "IonSync",
+    "author": "Sean Richards",
+    "description": "Self-hosted vault synchronization - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "s39n/IonSync"
+  },
+  {
     "id": "simple-streams",
     "name": "Simple Streams",
     "author": "Utku Aytaç",
@@ -51737,6 +51744,13 @@
     "repo": "36ty-blip/obsidian-color-math"
   },
   {
+    "id": "dependent-properties",
+    "name": "Dependent Properties",
+    "author": "Dirk Osburg",
+    "description": "Copy frontmatter from linked source notes into dependent notes. Forward and reverse sync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "borg1622/obsidian-dependent-properties"
+  },
+  {
     "id": "base-path-updater",
     "name": "Base Path Updater",
     "author": "Eric",
@@ -51763,5 +51777,19 @@
     "author": "elfmedy",
     "description": "Grow notes into pages with children, using ordinary folders and matching Markdown home notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "elfmedy/branch-note"
+  },
+  {
+    "id": "matrix-list-planner",
+    "name": "Matrix List Planner",
+    "author": "Dmitry Fert",
+    "description": "Bases view for drag-and-drop distribution of list property items across files and an unassigned pool. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fertion/matrix-list-planner"
+  },
+  {
+    "id": "selection-to-dida-task",
+    "name": "Selection to Dida",
+    "author": "diva",
+    "description": "Right-click selected text in an editor to add it as a Dida365/TickTick task, reusing the DidaSync plugin connection. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "divaliu1408/selection-to-didaTask"
   }
 ]
