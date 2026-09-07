@@ -43128,10 +43128,10 @@
   },
   {
     "id": "layout-switcher-uk-en",
-    "name": "Layout Switcher (UA-EN)",
+    "name": "Fix Word Layout (UA-EN)",
     "author": "kosperun",
     "description": "Convert selected text between English and Ukrainian keyboard layouts, for when you forgot to switch layout before typing - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kosperun/obsidian-layout-switcher-uk-en"
+    "repo": "kosperun/obsidian-fix-word-layout-uk-en"
   },
   {
     "id": "anki-card-link",
@@ -46968,6 +46968,13 @@
     "author": "yniany",
     "description": "Capture short thoughts and bring them back into view over time. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yniany/jotback"
+  },
+  {
+    "id": "side-by-side-diff",
+    "name": "Side-by-Side Diff",
+    "author": "Nico Blum",
+    "description": "Compare, review, and selectively merge two text files in a side-by-side view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nblum/obsidian-side-by-side-diff"
   },
   {
     "id": "vault-toolkit",
@@ -50967,6 +50974,13 @@
     "repo": "nightfall-yl/obsidian-astral-trek"
   },
   {
+    "id": "rowbase",
+    "name": "Rowbase",
+    "author": "soulaymane01",
+    "description": "Interactive Notion-style database for Obsidian — table, kanban, list, gallery, chart, timeline, stats, and dashboard views backed by human-readable .rbase files. Supports formulas, rollups, relations, sorting, filtering, grouping, and import/export. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "soulaymane01/Rowbase"
+  },
+  {
     "id": "gitlab-mr",
     "name": "GitLab Merge Request",
     "author": "Ris Adams",
@@ -51401,13 +51415,6 @@
     "repo": "aqu-lab/maic-for-office"
   },
   {
-    "id": "canvas-map-pins",
-    "name": "Canvas Map Pins",
-    "author": "mach-erik",
-    "description": "Adds the ability to put map pins on any image in a Canvas - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "erikmach/obsidian-canvas-map-plugin"
-  },
-  {
     "id": "auto-move-file",
     "name": "Auto Move File",
     "author": "sx kan",
@@ -51478,6 +51485,13 @@
     "repo": "kfirgumay2005-hash/Highlight-Extractor"
   },
   {
+    "id": "mistake-notebook",
+    "name": "Mistake Notebook",
+    "author": "Adobiz",
+    "description": "错题本（Mistake notebook）: mask answers (blur/white/mosaic/black), click to reveal, auto-split long answers to a linked page, insert at cursor, question emphasis, minimal mode. Plain Markdown, no lock-in. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "adobiz/obsidian-mistake-notebook"
+  },
+  {
     "id": "baidu-ai-notes",
     "name": "Netdisk AI Notes Importer",
     "author": "hyq",
@@ -51541,6 +51555,13 @@
     "repo": "skrpln/caption-gallery-slider"
   },
   {
+    "id": "googly-eyes",
+    "name": "GooglyEyes",
+    "author": "loopman90",
+    "description": "Put living googly eyes in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "loopman90/GooglyEyes"
+  },
+  {
     "id": "tabcandy",
     "name": "Tab Candy",
     "author": "LVNACY Notes",
@@ -51569,6 +51590,20 @@
     "repo": "gmsz-1603/obsidian-personal-workbench"
   },
   {
+    "id": "export-ics-schedule",
+    "name": "Export ICS Schedule",
+    "author": "lindongyan",
+    "description": "Export Obsidian - [ ] tasks to a .ics calendar file and open it with the system calendar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lindongyan1992/export-ics-schedule"
+  },
+  {
+    "id": "geogebra",
+    "name": "GeoGebra",
+    "author": "vanabel",
+    "description": "Drag .ggb files into notes and interact with GeoGebra constructions inline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vanabel/obsidian-geogebra"
+  },
+  {
     "id": "qiaomu-ai-rss",
     "name": "Qiaomu AI RSS",
     "author": "向阳乔木",
@@ -51595,5 +51630,19 @@
     "author": "Gagans",
     "description": "Paint a yearly heatmap from completed id-tagged routine tasks in daily notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lacall-gagans-studio/gagans-routine-heatmap"
+  },
+  {
+    "id": "claude-usage",
+    "name": "Claude Usage",
+    "author": "Alexander Herrmann",
+    "description": "Shows your Claude subscription usage (5-hour and weekly windows) in the status bar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "eightk1ll/obsidian-claude-usage"
+  },
+  {
+    "id": "copy-with-footnotes",
+    "name": "Copy with Footnotes",
+    "author": "Systina12",
+    "description": "Copy selected Markdown together with its referenced footnote definitions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "systina12/copy_with_footnotes"
   }
 ]
