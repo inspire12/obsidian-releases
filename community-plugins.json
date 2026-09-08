@@ -46018,6 +46018,13 @@
     "repo": "leweii/covault"
   },
   {
+    "id": "latest-mathjax",
+    "name": "Latest MathJax",
+    "author": "华佳浩",
+    "description": "Render math with a bundled, up-to-date MathJax 4 engine, without replacing Obsidian's built-in MathJax. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "danlingdan/fastMathJax"
+  },
+  {
     "id": "gantt-this",
     "name": "Gantt this",
     "author": "Altarok",
@@ -51422,6 +51429,13 @@
     "repo": "aqu-lab/maic-for-office"
   },
   {
+    "id": "canvas-map-pins",
+    "name": "Canvas Map Pins",
+    "author": "mach-erik",
+    "description": "Adds the ability to put map pins on any image in a Canvas - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "erikmach/obsidian-canvas-map-plugin"
+  },
+  {
     "id": "auto-move-file",
     "name": "Auto Move File",
     "author": "sx kan",
@@ -51765,6 +51779,13 @@
     "repo": "elfmedy/branch-note"
   },
   {
+    "id": "scriben",
+    "name": "Scriben",
+    "author": "scriben",
+    "description": "Sync your Scriben meeting notes into this vault, and let Scriben read the notes you choose to share back. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "scriben-ai/obsidian-scriben"
+  },
+  {
     "id": "matrix-list-planner",
     "name": "Matrix List Planner",
     "author": "Dmitry Fert",
@@ -51812,5 +51833,12 @@
     "author": "Robert Fleming",
     "description": "Desktop Git sync for macOS, Windows, and Linux: save, merge, upload, and verify. Supports Git LFS and VaultBridge. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "haivri/obsidian-git-sync-desktop"
+  },
+  {
+    "id": "library-shelf",
+    "name": "Library Shelf",
+    "author": "toyotathief",
+    "description": "A cover-grid library for books and films. Entries live as rows in a ledger note — no file per title unless it earns one. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "toya-co/library-shelf"
   }
 ]
