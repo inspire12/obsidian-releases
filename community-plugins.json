@@ -14667,9 +14667,9 @@
   {
     "id": "ai-tagger-universe",
     "name": "AI Tagger Universe",
-    "author": "niehu2018",
+    "author": "agents365-ai",
     "description": "Automatically analyze note content and add relevant tags using AI",
-    "repo": "niehu2018/obsidian-ai-tagger-universe"
+    "repo": "agents365-ai/obsidian-ai-tagger-universe"
   },
   {
     "id": "chat-clips",
@@ -19416,13 +19416,6 @@
     "author": "goryugocast",
     "description": "Record task start and finish times directly in Markdown. LLR (Live Life Recording) adds routine insertion and a lightweight daily summary sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "goryugocast/llr"
-  },
-  {
-    "id": "ttrpg-maps",
-    "name": "TTRPG Maps",
-    "author": "matthttam",
-    "description": "Render interactive TTRPG maps from code blocks with markers, templates, and distance measurement tools. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "matthttam/ttrpg-maps"
   },
   {
     "id": "meeting-detector",
@@ -44261,6 +44254,13 @@
     "repo": "jackydangelo/obsidian-property-from-backlink"
   },
   {
+    "id": "chinese-plugin-market",
+    "name": "Chinese Market",
+    "author": "羽鳞君",
+    "description": "面向中文用户的 Obsidian 社区插件搜索工具：输入关键词即可检索并展示翻译后的插件卡片，支持 AI 语义 / 名称 / 作者搜索。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-chinese-plugin-market"
+  },
+  {
     "id": "vault-orrery",
     "name": "Vault Orrery",
     "author": "Elliott Park",
@@ -47327,13 +47327,6 @@
     "repo": "surdeddd/obsidian-table-cards"
   },
   {
-    "id": "cognitree",
-    "name": "CogniTree",
-    "author": "Kerekes Stefan",
-    "description": "AI-powered branching knowledge trees. Grow a concept into tens of thousands of interconnected notes with a polymathic taxonomist LLM. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "stef4678/cognitree"
-  },
-  {
     "id": "vault-web-launcher",
     "name": "Vault Web",
     "author": "Mikhail Solovev",
@@ -49749,6 +49742,13 @@
     "repo": "chronicle-of-whispers/cow-shadow-atlas"
   },
   {
+    "id": "ribs-memos-sync",
+    "name": "Ribs Memos Sync",
+    "author": "cuteribs",
+    "description": "Sync notes in a folder with a Memos server (usememos.com) via its REST API. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cuteribs/ribs-memos-sync"
+  },
+  {
     "id": "audio-to-text",
     "name": "Audio to Text",
     "author": "geekwang",
@@ -51945,5 +51945,12 @@
     "author": "Actify",
     "description": "Translate selected PDF words and passages with your own OpenAI-compatible model, alongside PDF++. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xfrrn/obsidian-pdf-selection-translator"
+  },
+  {
+    "id": "page-lock",
+    "name": "Page Lock",
+    "author": "Robert Fleming",
+    "description": "Lock notes against editing until unlocked, with a frontmatter-synced lock that blocks the editor and other plugins. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "haivri/obsidian-page-lock"
   }
 ]
