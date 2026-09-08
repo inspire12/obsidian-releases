@@ -33544,6 +33544,13 @@
     "repo": "viggomeesters/obsidian-folder-sort-view"
   },
   {
+    "id": "stashpad",
+    "name": "Stashpad",
+    "author": "Grub Basket",
+    "description": "A chat-style, nested-notes workspace: rapid capture, outliner navigation, fast search, tasks, and per-folder templates, with one-click Open Knowledge Format (OKF) export for LLMs and agents. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/SP"
+  },
+  {
     "id": "html-experience",
     "name": "HTML Experience",
     "author": "yabs",
@@ -37266,6 +37273,13 @@
     "author": "ondreu",
     "description": "Simple light DXF viewer and editor, capable of measuring lenght, area, diameter, angles, and more. Aswell as simple editing like lines, polylines, rectangles, circles, elipses, arcs, fill, hatches... - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ondreu/DXF-Viewer-and-editor"
+  },
+  {
+    "id": "bamboo-immortals",
+    "name": "Bamboo Immortals",
+    "author": "羽鳞君",
+    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-immortals"
   },
   {
     "id": "pie-tasks",
@@ -44247,13 +44261,6 @@
     "repo": "jackydangelo/obsidian-property-from-backlink"
   },
   {
-    "id": "chinese-plugin-market",
-    "name": "Chinese Market",
-    "author": "羽鳞君",
-    "description": "面向中文用户的 Obsidian 社区插件搜索工具：输入关键词即可检索并展示翻译后的插件卡片，支持 AI 语义 / 名称 / 作者搜索。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-chinese-plugin-market"
-  },
-  {
     "id": "vault-orrery",
     "name": "Vault Orrery",
     "author": "Elliott Park",
@@ -45365,13 +45372,6 @@
     "author": "Tim Goffings",
     "description": "Connect your second brain to your team's. Colleagues see topic labels, counts and sample note titles from folders you choose. Contents stay local — optional AI drafting uses your own account. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "goffiti/vantell-obsidian"
-  },
-  {
-    "id": "syncer",
-    "name": "Syncer",
-    "author": "Daniel Simpson",
-    "description": "Sync references/links to Google Tasks, Gmail Starred, Microsoft To Do, Outlook flagged mail, Azure DevOps work items, Firefox Bookmarks, and Todoist into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "desimpson/syncer"
   },
   {
     "id": "folder-column-navigator",
