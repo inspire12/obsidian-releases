@@ -26915,6 +26915,13 @@
     "repo": "nymbo/Markdown-Minimap"
   },
   {
+    "id": "recent-edits",
+    "name": "Recent Edits",
+    "author": "Christopher Wagner",
+    "description": "See what actually changed in your vault, grouped by day, with a marker on anything edited outside the editor. Built for vaults where scripts and AI tools are collaboratively in one vault - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cwagner223355/obsidian-recent-edits"
+  },
+  {
     "id": "highlightr-plus",
     "name": "Highlightr Plus",
     "author": "Olivier and Chetachi",
@@ -44254,13 +44261,6 @@
     "repo": "jackydangelo/obsidian-property-from-backlink"
   },
   {
-    "id": "chinese-plugin-market",
-    "name": "Chinese Market",
-    "author": "羽鳞君",
-    "description": "面向中文用户的 Obsidian 社区插件搜索工具：输入关键词即可检索并展示翻译后的插件卡片，支持 AI 语义 / 名称 / 作者搜索。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-chinese-plugin-market"
-  },
-  {
     "id": "vault-orrery",
     "name": "Vault Orrery",
     "author": "Elliott Park",
@@ -47327,6 +47327,13 @@
     "repo": "surdeddd/obsidian-table-cards"
   },
   {
+    "id": "cognitree",
+    "name": "CogniTree",
+    "author": "Kerekes Stefan",
+    "description": "AI-powered branching knowledge trees. Grow a concept into tens of thousands of interconnected notes with a polymathic taxonomist LLM. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "stef4678/cognitree"
+  },
+  {
     "id": "vault-web-launcher",
     "name": "Vault Web",
     "author": "Mikhail Solovev",
@@ -48242,13 +48249,6 @@
     "author": "Helba",
     "description": "Publish and share your notes through mininote: push a note, get a public link. Your vault stays the source of truth. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "toyz/mininote-obsidian"
-  },
-  {
-    "id": "kanux",
-    "name": "Kanux",
-    "author": "Jason Quesada Gomez",
-    "description": "Trello-style task boards with cards, labels, dates, and highly customizable Markdown-formatted checklists. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jasonqg26/Kanux"
   },
   {
     "id": "unhide",
@@ -50701,6 +50701,13 @@
     "repo": "adlinz/obsidian-image-annotator"
   },
   {
+    "id": "notelens",
+    "name": "NoteLens",
+    "author": "jotatito05",
+    "description": "Infinite whiteboard with pressure-sensitive stylus ink, smart tags, PDFs and interactive videos on the canvas. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "veloik/Plugin-Obsidian"
+  },
+  {
     "id": "ltoolkit",
     "name": "LToolkit",
     "author": "lee112358",
@@ -51786,13 +51793,6 @@
     "repo": "divaliu1408/selection-to-didaTask"
   },
   {
-    "id": "quick-switch-sidebar",
-    "name": "Quick Switch Sidebar",
-    "author": "travisluong",
-    "description": "Browse folders and immediately open selected notes without leaving the sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "travisluong/quick-switch-sidebar"
-  },
-  {
     "id": "context-focus",
     "name": "Context Focus",
     "author": "Bag of Tips",
@@ -51945,6 +51945,13 @@
     "author": "Actify",
     "description": "Translate selected PDF words and passages with your own OpenAI-compatible model, alongside PDF++. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xfrrn/obsidian-pdf-selection-translator"
+  },
+  {
+    "id": "pcloud-vault-clone",
+    "name": "pCloud Sync",
+    "author": "Laszlo Repassy",
+    "description": "Sync your vault to a pCloud folder as plain, unencrypted files. Notes edited on two devices are merged paragraph by paragraph, right in the note, with no separate conflict files. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "laszlorepassy/pcloud-sync"
   },
   {
     "id": "page-lock",
