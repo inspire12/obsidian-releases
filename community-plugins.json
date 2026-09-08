@@ -27706,6 +27706,13 @@
     "repo": "whatsyourwhy/Cognitive-Glow"
   },
   {
+    "id": "codex-echoink",
+    "name": "EchoInk Agent",
+    "author": "Akin-Lvyf",
+    "description": "EchoInk is a personal knowledge agent in your Obsidian sidebar — it chats, remembers, and keeps your vault's knowledge organized. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "akin-lvyifang/codex-echoink"
+  },
+  {
     "id": "kai-command-center",
     "name": "KAI Command Center",
     "author": "Jason Peters",
@@ -41853,13 +41860,6 @@
     "repo": "lucytheboss/extended-base"
   },
   {
-    "id": "folgezettel-navigator",
-    "name": "Folgezettel Navigator",
-    "author": "Niels-Oliver Walkwoski",
-    "description": "Visualize and navigate a Luhmann-style Folgezettel note sequence in a sidebar panel. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "cutuchiqueno/obsidian-folgezettel-navigator"
-  },
-  {
     "id": "drawio-blocks",
     "name": "draw.io Blocks",
     "author": "dy",
@@ -49413,13 +49413,6 @@
     "repo": "helantianshen/oss-sync"
   },
   {
-    "id": "wiki-task-status",
-    "name": "Wiki Task Status",
-    "author": "General Sentiment",
-    "description": "Render standalone wikilinks as checkboxes backed by a configurable note property. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "general-sentiment/wiki-task-status"
-  },
-  {
     "id": "copy-guard",
     "name": "CopyGuard",
     "author": "k-tech-studio",
@@ -51842,10 +51835,38 @@
     "repo": "kuarahy/pegasus-media-tracker"
   },
   {
+    "id": "readonly-git-mirror",
+    "name": "Read-only Git Mirror",
+    "author": "wangru",
+    "description": "Mirror a Git repository into your vault, one-way and read-only. Never commits, never pushes, never touches untracked files. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yomicoding/Obs-readonly-git-mirror"
+  },
+  {
     "id": "inline-conversions",
     "name": "Inline Conversions",
     "author": "Oleg Bezrukavnikov",
     "description": "Display currencies and measurements in preferred units while preserving original Markdown, with alternate conversions on hover. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "olegbezr/obsidian-inline-conversions"
+  },
+  {
+    "id": "sift",
+    "name": "Sift",
+    "author": "disasta-g",
+    "description": "Finally a good search tool for Obsidian! - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "disasta-g/sift"
+  },
+  {
+    "id": "ai-work-review",
+    "name": "AI Work Review",
+    "author": "Monday Cat",
+    "description": "Review and approve AI's work on your markdown vault: rule checks, AI report ingestion, proposal diff with confirmed replacement. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "monday-cat/ai-work-review"
+  },
+  {
+    "id": "class-timetable",
+    "name": "Class Timetable",
+    "author": "Elliott Park",
+    "description": "A weekly class timetable in the sidebar. Class times live in your notes' frontmatter, so renaming or moving folders never breaks them. Click a class to browse its folders, or create today's note from a template. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "elliott-json-park/obsidian-class-timetable"
   }
 ]
