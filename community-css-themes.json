@@ -5167,5 +5167,12 @@
     "repo": "serena-sheng/obsidian-astrum",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Lick",
+    "author": "Brendan",
+    "repo": "beingbrendan/Lick",
+    "screenshot": "preview.png",
+    "modes": ["dark", "light"]
   }
 ]

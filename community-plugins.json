@@ -41307,13 +41307,6 @@
     "repo": "valleytheknight/Canvas-Positioning-Toolkit"
   },
   {
-    "id": "fullscreen-image",
-    "name": "Fullscreen Image",
-    "author": "Robert Fleming",
-    "description": "Click any image to expand it fullscreen, with pinch, wheel, and button zoom plus drag to pan. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "haivri/obsidian-fullscreen-image"
-  },
-  {
     "id": "ai-translate",
     "name": "AI Translate",
     "author": "DXShelley",
@@ -41865,6 +41858,13 @@
     "author": "ununnamed",
     "description": "Read books with ease: scroll-position memory, remaining reading time, and book progress bars. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ununnamed/book-reader"
+  },
+  {
+    "id": "foldable-frontmatter-groups",
+    "name": "Foldable Frontmatter Groups",
+    "author": "Christopher Wagner",
+    "description": "Adds collapsible group headers, canonical key ordering, folder-scoped templates, and cleanup tools to the native Properties panel. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cwagner223355/obsidian-foldable-frontmatter-groups"
   },
   {
     "id": "sort-checked-tasks",
@@ -44259,6 +44259,13 @@
     "author": "Giacomo D’angelo",
     "description": "Add a frontmatter property to all notes linking to the current note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jackydangelo/obsidian-property-from-backlink"
+  },
+  {
+    "id": "chinese-plugin-market",
+    "name": "Chinese Market",
+    "author": "羽鳞君",
+    "description": "面向中文用户的 Obsidian 社区插件搜索工具：输入关键词即可检索并展示翻译后的插件卡片，支持 AI 语义 / 名称 / 作者搜索。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-chinese-plugin-market"
   },
   {
     "id": "vault-orrery",
@@ -51959,5 +51966,12 @@
     "author": "Robert Fleming",
     "description": "Lock notes against editing until unlocked, with a frontmatter-synced lock that blocks the editor and other plugins. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "haivri/obsidian-page-lock"
+  },
+  {
+    "id": "inplace-diff-view",
+    "name": "In-place Diff View",
+    "author": "glech",
+    "description": "Renders {old | new} and {note|...} correction markers with a hover tooltip to accept, reject, or delete them. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "glechic/inplace-diff-view"
   }
 ]
