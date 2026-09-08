@@ -34643,6 +34643,13 @@
     "repo": "ibrh96-prog/obsidian-highlights-synthesizer"
   },
   {
+    "id": "auto-moc-ai-tagger",
+    "name": "Auto MOC and AI Tagger",
+    "author": "zhangpl666ya",
+    "description": "Automatically maintains folder MOCs (with tag listing) and uses a local or cloud LLM to tag notes and recommend similar notes based on vector embeddings. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhangpl666ya/auto-moc-ai-tagger"
+  },
+  {
     "id": "ara",
     "name": "Ara",
     "author": "Ax",
@@ -40589,7 +40596,7 @@
     "id": "word-smith",
     "name": "Word-Smith",
     "author": "sadsnake1",
-    "description": "The Ultimate Distraction-free Writing Suite - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Dedicated Writing Suite - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sadsnake1/word-smith"
   },
   {
@@ -40817,25 +40824,11 @@
     "repo": "westb-dev/Solomon-Chat"
   },
   {
-    "id": "heading-linker",
-    "name": "Heading Linker",
-    "author": "max-fluff",
-    "description": "Auto-link unlinked mentions in your notes to headings in your glossary files, in any word form: plurals, declensions, verb endings, with stemming for six languages. Convert them to real wiki links. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "max-fluff/obsidian-heading-linker"
-  },
-  {
     "id": "expiry-manager",
     "name": "Expiry Manager",
     "author": "Sahil A",
     "description": "Track anything that expires, renews, or needs periodic attention. Manage subscriptions, documents, licenses, and more. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sahilium/expiry-manager"
-  },
-  {
-    "id": "reference-linker",
-    "name": "Reference Linker",
-    "author": "max-fluff",
-    "description": "Deep-link your notes to PDFs, Office files, and images outside your vault. Autocomplete a document or a PDF section and jump to the exact page. Hover to preview the page, embed it inline. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "max-fluff/obsidian-reference-linker"
   },
   {
     "id": "digital-dogear",
@@ -46858,6 +46851,13 @@
     "repo": "duskengservices/obsidian-armillary"
   },
   {
+    "id": "inline-handwriting-puria",
+    "name": "Inline Handwriting",
+    "author": "puria",
+    "description": "Write and edit handwriting directly inside an Obsidian note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "puriakazemieh/obsidian-inline-handwriting"
+  },
+  {
     "id": "vault-ai-chat",
     "name": "AI Vault Memory",
     "author": "puria",
@@ -47500,6 +47500,13 @@
     "author": "Andres Herle Lang",
     "description": "Convert Vault PDFs into clean Markdown with local text and table extraction, compressed images, optional SVG tables, and safe PDF handling. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "andyherle/obsidian-pdf-to-markdown"
+  },
+  {
+    "id": "cmds-achmage",
+    "name": "CMDS Achmage",
+    "author": "CMDSPACE-DEV",
+    "description": "Isolated AI chat, Plan image generation, parallel inline and document-scale editing, and secure MCP connections. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cmdspace-dev/CMDS-Achmage"
   },
   {
     "id": "just-simple-excalidraw",
@@ -51702,18 +51709,18 @@
     "repo": "nonkuri/obsidian-bookview"
   },
   {
+    "id": "embed-link",
+    "name": "Embed Link",
+    "author": "LiShaocheng",
+    "description": "Paste and drop URLs and files as web page cards, video previews, or filename links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "exbob/obsidian-embed-link"
+  },
+  {
     "id": "ultisync",
     "name": "UltiSync",
     "author": "Sachet Sangamesh Mulimani",
     "description": "Synchronize selected vault files with a GitHub repository using the GitHub REST API. Works on desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "msachet5/obsidian-ultisync"
-  },
-  {
-    "id": "insert-image-plus",
-    "name": "Insert Image Plus",
-    "author": "Yosuke Tanji",
-    "description": "Insert images and Excalidraw drawings from a thumbnail grid grouped by filename prefix (icon, logo, ...), and manage them one file at a time. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yosukedesign/insert-image-plus"
   },
   {
     "id": "notelets",
@@ -51884,6 +51891,13 @@
     "repo": "elliott-json-park/obsidian-class-timetable"
   },
   {
+    "id": "tablebase",
+    "name": "TableBase",
+    "author": "Aleksei Chekodanov",
+    "description": "Turn standard Markdown tables into interactive Notion-like databases: Kanban board view, multi-select tags, date pickers, calculations, and advanced filters — with zero lock-in. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "a269ch/obsidian-tablebase"
+  },
+  {
     "id": "pickpen",
     "name": "Pickpen Sync",
     "author": "RecurEngine-dev",
@@ -51894,7 +51908,7 @@
     "id": "image-relinker",
     "name": "Image Relinker",
     "author": "key",
-    "description": "Preview and repair broken image embeds in the active note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Safely preview and fix broken image links for your active Obsidian note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "keyoneway/image-relinker"
   },
   {
@@ -51903,6 +51917,13 @@
     "author": "Roman",
     "description": "Browse agent sessions (OpenCode v2/v1, Claude Code, Codex, Cursor): dedicated view or dashboards embedded in any note. Live streaming and chat for OpenCode, read-only transcripts for the rest. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "exemplarov/vibed"
+  },
+  {
+    "id": "canvas-mind-map",
+    "name": "Canvas Mind Map",
+    "author": "zenolzx",
+    "description": "Create collapsible Canvas mind maps from Markdown with seven layouts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zenolzx/Canvas-Mind-Map"
   },
   {
     "id": "vietnam-ai-rss",
@@ -51917,5 +51938,19 @@
     "author": "pierre",
     "description": "Draw graphs and figures in your notes: coordinate grid, function curves, lines, geometric shapes, computed intersection points and tangents, with PNG and PDF export. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ppocass/obsidian-graphiques"
+  },
+  {
+    "id": "assistant-emily",
+    "name": "Assistant Emily",
+    "author": "SUNGWON PARK",
+    "description": "Intelligent Markdown proofreading and translation specialized plugin with OpenAI-compatible LLM proxy support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sparklings/emily"
+  },
+  {
+    "id": "basecamp-sync",
+    "name": "Basecamp Sync",
+    "author": "fodoj",
+    "description": "Sync selected notes and folders to formatted Basecamp documents. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mkdev-me/obsidian-basecamp-sync"
   }
 ]

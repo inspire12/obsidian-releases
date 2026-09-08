@@ -3265,6 +3265,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Panorama",
+    "author": "magmabits",
+    "repo": "magmabits/Panorama-Theme",
+    "screenshot": "panorama-screen.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Obsiddy-In Terminal",
     "author": "leonjacobs-collab",
     "repo": "leonjacobs-collab/obsidian-terminal-theme",
@@ -5131,6 +5138,13 @@
     "author": "elegra1965",
     "repo": "elegra1965-source/obsidian-nms-atlas",
     "screenshot": "Screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Atom One Pro",
+    "author": "Dev_AbdallahAbdelrahim",
+    "repo": "devabdallahabdelrahim/atom-one-pro-obsidian",
+    "screenshot": "docs/assets/dark theme setting preview screenshot.png",
     "modes": ["dark", "light"]
   },
   {
