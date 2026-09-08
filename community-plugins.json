@@ -27706,13 +27706,6 @@
     "repo": "whatsyourwhy/Cognitive-Glow"
   },
   {
-    "id": "codex-echoink",
-    "name": "EchoInk Agent",
-    "author": "Akin-Lvyf",
-    "description": "EchoInk is a personal knowledge agent in your Obsidian sidebar — it chats, remembers, and keeps your vault's knowledge organized. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "akin-lvyifang/codex-echoink"
-  },
-  {
     "id": "kai-command-center",
     "name": "KAI Command Center",
     "author": "Jason Peters",
@@ -42196,13 +42189,6 @@
     "repo": "markcrobbins2112/op-file-tree-selector-hue-rotate"
   },
   {
-    "id": "kimidian",
-    "name": "Kimi Assistant",
-    "author": "Liu",
-    "description": "Embed Kimi Code CLI as an AI collaborator in your vault sidebar. Chat with Kimi over ACP to read, search and edit your notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "liu-zhiyu-enicom/kimidian"
-  },
-  {
     "id": "ord-updater",
     "name": "ORDupdater",
     "author": "Ordnung",
@@ -50673,13 +50659,6 @@
     "repo": "jmagaram/nvc-obsidian"
   },
   {
-    "id": "sentence-capitalizer",
-    "name": "Sentence Capitalizer",
-    "author": "kosperun",
-    "description": "Auto-capitalizes the first letter you type at the start of a sentence, undoes cleanly with Cmd/Ctrl+Z - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kosperun/obsidian-sentence-capitalizer"
-  },
-  {
     "id": "tally",
     "name": "Tally",
     "author": "Liam Gour",
@@ -51819,5 +51798,19 @@
     "author": "Epipolar Studios",
     "description": "Publish the current note to your self-hosted Annotex server so invited colleagues can read it and leave inline, anchored comments. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "epipolarstudios/annotex-obsidian-plugin"
+  },
+  {
+    "id": "tubenote",
+    "name": "TubeNote",
+    "author": "Hugo Santos",
+    "description": "Adds a compact YouTube livestream controller above the vault name. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "llzektorll/TubeNote"
+  },
+  {
+    "id": "git-sync-desktop",
+    "name": "Git Sync Desktop",
+    "author": "Robert Fleming",
+    "description": "Desktop Git sync for macOS, Windows, and Linux: save, merge, upload, and verify. Supports Git LFS and VaultBridge. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "haivri/obsidian-git-sync-desktop"
   }
 ]

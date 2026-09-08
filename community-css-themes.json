@@ -5127,6 +5127,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "No Mans Sky - Atlas",
+    "author": "elegra1965",
+    "repo": "elegra1965-source/obsidian-nms-atlas",
+    "screenshot": "Screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Ivory Garden",
     "author": "Ward",
     "repo": "w-o-debian/ivory-garden",
