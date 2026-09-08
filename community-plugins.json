@@ -36792,13 +36792,6 @@
     "repo": "jovialio/obsidian-mdx"
   },
   {
-    "id": "glossary-linker",
-    "name": "Glossary Linker",
-    "author": "max-fluff",
-    "description": "Auto-link glossary terms across your vault in any word form: plurals, declensions, and cases, powered by morphological stemming for six languages. Convert highlights into real wiki links. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "max-fluff/obsidian-glossary-linker"
-  },
-  {
     "id": "note-nav-cards",
     "name": "Note Nav Cards",
     "author": "David Torro",
@@ -37273,13 +37266,6 @@
     "author": "ondreu",
     "description": "Simple light DXF viewer and editor, capable of measuring lenght, area, diameter, angles, and more. Aswell as simple editing like lines, polylines, rectangles, circles, elipses, arcs, fill, hatches... - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ondreu/DXF-Viewer-and-editor"
-  },
-  {
-    "id": "bamboo-immortals",
-    "name": "Bamboo Immortals",
-    "author": "羽鳞君",
-    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-bamboo-immortals"
   },
   {
     "id": "pie-tasks",
@@ -38974,13 +38960,6 @@
     "author": "MehulG",
     "description": "Local Airtable-like tables with selects, filters, query, CSV/Excel import, and optional Airtable sync. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mehulg/airtable-tabula"
-  },
-  {
-    "id": "code-linker",
-    "name": "Code Linker",
-    "author": "max-fluff",
-    "description": "Deep-link your notes to your source code. Autocomplete a symbol and jump to the exact line in your IDE (VS Code, JetBrains) or a GitHub/GitLab permalink. Embed live code snippets. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "max-fluff/obsidian-code-linker"
   },
   {
     "id": "pg",
@@ -49959,6 +49938,13 @@
     "repo": "andypandy1189/shelf-obsidian"
   },
   {
+    "id": "folder-terminal",
+    "name": "Folder Terminal",
+    "author": "First Kang",
+    "description": "Hover over a folder in the file explorer to reveal a terminal icon; click it to open a real shell (PTY) docked at the bottom, rooted at that folder. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "firstkang/folder-terminal"
+  },
+  {
     "id": "bases-wrap-text",
     "name": "Bases Wrap Text",
     "author": "GroupiesM",
@@ -50655,7 +50641,7 @@
     "id": "sentence-capitalizer",
     "name": "Sentence Case and Dash Autocorrect",
     "author": "kosperun",
-    "description": "Auto-capitalizes the first letter you type at the start of a sentence, undoes cleanly with Cmd/Ctrl+Z - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Auto-corrects sentence capitalization, two-initial-caps typos, and hyphens into dashes as you type. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kosperun/obsidian-sentence-case-dash-autocorrect"
   },
   {
@@ -51952,5 +51938,12 @@
     "author": "fodoj",
     "description": "Sync selected notes and folders to formatted Basecamp documents. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mkdev-me/obsidian-basecamp-sync"
+  },
+  {
+    "id": "pdf-selection-translator",
+    "name": "PDF Selection Translator",
+    "author": "Actify",
+    "description": "Translate selected PDF words and passages with your own OpenAI-compatible model, alongside PDF++. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xfrrn/obsidian-pdf-selection-translator"
   }
 ]
