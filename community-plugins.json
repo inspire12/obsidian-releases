@@ -50900,7 +50900,7 @@
     "id": "vivlio",
     "name": "Vivlio",
     "author": "nonkuri",
-    "description": "Typeset your notes with Vivliostyle (CSS paged media) and export to PDF / EPUB with a live preview. Japanese vertical writing, ruby and emphasis dots supported. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Typeset notes with Vivliostyle (CSS paged media) and export print-ready PDF or EPUB 3 with a live preview. Japanese vertical writing, ruby, emphasis dots, crop marks and bleed. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nonkuri/obsidian-vivlio"
   },
   {
@@ -51691,7 +51691,7 @@
     "id": "bookview",
     "name": "BookView",
     "author": "nonkuri",
-    "description": "A PDF viewer with two-page spread support for right-to-left bound (vertical Japanese) books, including an Acrobat-style cover page option. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A PDF and EPUB reader with two-page spread support for right-to-left bound (vertical Japanese) books, including an Acrobat-style cover page option. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nonkuri/obsidian-bookview"
   },
   {
@@ -51725,7 +51725,7 @@
   {
     "id": "color-math",
     "name": "Color Math",
-    "author": "Aditya RG",
+    "author": "Aditya",
     "description": "Automatically apply semantic colors to LaTeX and MathJax equations in Obsidian Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "36ty-blip/obsidian-color-math"
   },
@@ -51821,6 +51821,13 @@
     "repo": "haivri/obsidian-git-sync-desktop"
   },
   {
+    "id": "an-tou",
+    "name": "An Tou",
+    "author": "zilinmuyu",
+    "description": "Open a glass card desk instead of the file tree. Map folders to rooms, then click into notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wrngo/an-tou"
+  },
+  {
     "id": "library-shelf",
     "name": "Library Shelf",
     "author": "toyotathief",
@@ -51868,5 +51875,12 @@
     "author": "Elliott Park",
     "description": "A weekly class timetable in the sidebar. Class times live in your notes' frontmatter, so renaming or moving folders never breaks them. Click a class to browse its folders, or create today's note from a template. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "elliott-json-park/obsidian-class-timetable"
+  },
+  {
+    "id": "image-relinker",
+    "name": "Image Relinker",
+    "author": "key",
+    "description": "Preview and repair broken image embeds in the active note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "keyoneway/image-relinker"
   }
 ]
