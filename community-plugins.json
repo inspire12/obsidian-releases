@@ -41790,13 +41790,6 @@
     "repo": "decai335335-debug/handwriting-markdown-view"
   },
   {
-    "id": "simple-gallery",
-    "name": "Simple Gallery",
-    "author": "Robert Fleming",
-    "description": "Turn a simple, YAML-inspired list of image embeds into a responsive photo grid. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "haivri/obsidian-simple-gallery"
-  },
-  {
     "id": "tasks-datetime",
     "name": "Tasks Datetime",
     "author": "DXShelley",
@@ -46023,13 +46016,6 @@
     "author": "Jakob He",
     "description": "Team knowledge base client — share, consume, and evolve your company's knowledge through silently synced shared folders. An LLM agent handles all the git plumbing so you never have to. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "leweii/covault"
-  },
-  {
-    "id": "latest-mathjax",
-    "name": "Latest MathJax",
-    "author": "华佳浩",
-    "description": "Render math with a bundled, up-to-date MathJax 4 engine, without replacing Obsidian's built-in MathJax. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "danlingdan/fastMathJax"
   },
   {
     "id": "gantt-this",
@@ -50659,6 +50645,13 @@
     "repo": "jmagaram/nvc-obsidian"
   },
   {
+    "id": "sentence-capitalizer",
+    "name": "Sentence Case and Dash Autocorrect",
+    "author": "kosperun",
+    "description": "Auto-capitalizes the first letter you type at the start of a sentence, undoes cleanly with Cmd/Ctrl+Z - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kosperun/obsidian-sentence-case-dash-autocorrect"
+  },
+  {
     "id": "tally",
     "name": "Tally",
     "author": "Liam Gour",
@@ -51441,6 +51434,13 @@
     "author": "loopman90",
     "description": "Turn photos, GIFs and videos into a customizable ambient gallery and digital photo frame inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "loopman90/LumaFrame"
+  },
+  {
+    "id": "annocard",
+    "name": "AnnoCard",
+    "author": "wbl",
+    "description": "独立标注数据 + 卡片化管理：高亮、批注、标签、批量删除、复习模式。融合自 annotation-marker (MIT) 与 HiLighter | Standalone annotation data + card management, based on annotation-marker (MIT) & HiLighter. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "power-ioi/annocard"
   },
   {
     "id": "any-table-sort",
