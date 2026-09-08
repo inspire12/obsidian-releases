@@ -37576,6 +37576,13 @@
     "repo": "electroluminescent/obsidian-extended-properties"
   },
   {
+    "id": "hybrid-git-sync",
+    "name": "Hybrid Git Sync",
+    "author": "walkskyer",
+    "description": "Cross-platform Git sync plugin. Desktop uses native git and API, mobile uses GitHub/Gitea/GitLab API. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wk-obsidian/HybridGitSync"
+  },
+  {
     "id": "eve-apple-tree",
     "name": "Eve Apple Tree Thinking System",
     "author": "Evelyn Chan",
@@ -46851,13 +46858,6 @@
     "repo": "duskengservices/obsidian-armillary"
   },
   {
-    "id": "inline-handwriting-puria",
-    "name": "Inline Handwriting",
-    "author": "puria",
-    "description": "Write and edit handwriting directly inside an Obsidian note. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "puriakazemieh/obsidian-inline-handwriting"
-  },
-  {
     "id": "vault-ai-chat",
     "name": "AI Vault Memory",
     "author": "puria",
@@ -51910,5 +51910,12 @@
     "author": "TonyX",
     "description": "Read personal RSS and Atom feeds, translate Chinese articles into Vietnamese, and save links to the daily note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mrtinhnguyen/vietnam-ai-rss"
+  },
+  {
+    "id": "graphiques",
+    "name": "Graphiques",
+    "author": "pierre",
+    "description": "Draw graphs and figures in your notes: coordinate grid, function curves, lines, geometric shapes, computed intersection points and tangents, with PNG and PDF export. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ppocass/obsidian-graphiques"
   }
 ]
