@@ -14518,6 +14518,13 @@
     "repo": "anareaty/html-checkboxes"
   },
   {
+    "id": "automatic-linker",
+    "name": "Automatic Linker",
+    "author": "kdnk",
+    "description": "automatically converts plain text file references into wiki links",
+    "repo": "kdnk/obsidian-automatic-linker"
+  },
+  {
     "id": "checkbox-sync",
     "name": "Checkbox Sync",
     "author": "groldsf",
@@ -19675,13 +19682,6 @@
     "author": "Ahmed Farhat",
     "description": "Build your core identity. Track habits visually in daily notes with adaptive sidebar grids, atomic markdown storage, and rich statistics. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ahmed-farhat99/core-habits"
-  },
-  {
-    "id": "garmin-health-sync",
-    "name": "Garmin Health Sync",
-    "author": "fcandi",
-    "description": "Sync Garmin Connect health data into your Daily Notes as frontmatter properties. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "fcandi/Garmin-Health-Sync"
   },
   {
     "id": "show-hidden-files",
@@ -49959,13 +49959,6 @@
     "repo": "andypandy1189/shelf-obsidian"
   },
   {
-    "id": "folder-terminal",
-    "name": "Folder Terminal",
-    "author": "First Kang",
-    "description": "Hover over a folder in the file explorer to reveal a terminal icon; click it to open a real shell (PTY) docked at the bottom, rooted at that folder. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "firstkang/folder-terminal"
-  },
-  {
     "id": "bases-wrap-text",
     "name": "Bases Wrap Text",
     "author": "GroupiesM",
@@ -51840,5 +51833,19 @@
     "author": "toyotathief",
     "description": "A cover-grid library for books and films. Entries live as rows in a ledger note — no file per title unless it earns one. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "toya-co/library-shelf"
+  },
+  {
+    "id": "pegasus-media-tracker",
+    "name": "Pegasus Media Tracker",
+    "author": "Pegasus",
+    "description": "Feature-rich yet simple tracker for all types of media. Comics, games, books, manga, comics, shows, whatever you put your heart into. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kuarahy/pegasus-media-tracker"
+  },
+  {
+    "id": "inline-conversions",
+    "name": "Inline Conversions",
+    "author": "Oleg Bezrukavnikov",
+    "description": "Display currencies and measurements in preferred units while preserving original Markdown, with alternate conversions on hover. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "olegbezr/obsidian-inline-conversions"
   }
 ]

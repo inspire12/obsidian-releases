@@ -5146,5 +5146,12 @@
     "repo": "w-o-debian/glacial-bloom",
     "screenshot": "screenshots/social-preview.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Astrum",
+    "author": "chengmiaofan",
+    "repo": "serena-sheng/obsidian-astrum",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
