@@ -37576,13 +37576,6 @@
     "repo": "electroluminescent/obsidian-extended-properties"
   },
   {
-    "id": "hybrid-git-sync",
-    "name": "Hybrid Git Sync",
-    "author": "walkskyer",
-    "description": "Cross-platform Git sync plugin. Desktop uses native git and API, mobile uses GitHub/Gitea/GitLab API. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "wk-obsidian/HybridGitSync"
-  },
-  {
     "id": "eve-apple-tree",
     "name": "Eve Apple Tree Thinking System",
     "author": "Evelyn Chan",
@@ -47796,6 +47789,13 @@
     "repo": "songjiajun0209-byte/recording-minutes"
   },
   {
+    "id": "ai-scheduler",
+    "name": "AI Scheduler",
+    "author": "Rachit Asthana",
+    "description": "Autonomous AI assistant layer for Claudian with AI planning, scheduled work, self-talk, nightly vault reviews, and notifications. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "racstan/obsidian-ai-scheduler"
+  },
+  {
     "id": "ebbinghaus-review",
     "name": "Note Review Reminder",
     "author": "rheor108",
@@ -50603,6 +50603,13 @@
     "repo": "tteschon/obsidian-task-base"
   },
   {
+    "id": "dnd-character-sheet-helper",
+    "name": "DnD Character Sheet Helper",
+    "author": "Ionas Politis",
+    "description": "Renders D&D 5.5e character features, weapons and an inventory from frontmatter properties. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ionaspolitis/DnD-Character-Sheet-Helper"
+  },
+  {
     "id": "aware-line-capitalizer",
     "name": "Aware Line Capitalizer",
     "author": "Ehren Lampcov",
@@ -51877,10 +51884,31 @@
     "repo": "elliott-json-park/obsidian-class-timetable"
   },
   {
+    "id": "pickpen",
+    "name": "Pickpen Sync",
+    "author": "RecurEngine-dev",
+    "description": "Sync notes across devices with cloud snapshots, conflict copies, and version history. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "recurengine/pickpen"
+  },
+  {
     "id": "image-relinker",
     "name": "Image Relinker",
     "author": "key",
     "description": "Preview and repair broken image embeds in the active note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "keyoneway/image-relinker"
+  },
+  {
+    "id": "vibed",
+    "name": "Vibed",
+    "author": "Roman",
+    "description": "Browse agent sessions (OpenCode v2/v1, Claude Code, Codex, Cursor): dedicated view or dashboards embedded in any note. Live streaming and chat for OpenCode, read-only transcripts for the rest. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "exemplarov/vibed"
+  },
+  {
+    "id": "vietnam-ai-rss",
+    "name": "Vietnam AI RSS",
+    "author": "TonyX",
+    "description": "Read personal RSS and Atom feeds, translate Chinese articles into Vietnamese, and save links to the daily note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mrtinhnguyen/vietnam-ai-rss"
   }
 ]
