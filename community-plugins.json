@@ -25743,7 +25743,7 @@
     "name": "Implicit Macros",
     "author": "eriskii",
     "description": "Inline AI macros: type !!prompt! and have it expand in place via an OpenAI-compatible chat endpoint. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "isolyth/implicit-macros"
+    "repo": "eriskii/implicit-macros"
   },
   {
     "id": "open-agent",
@@ -25751,6 +25751,13 @@
     "author": "nikitaclicks",
     "description": "AI agent for your vault — vault-aware, tool-capable, BYOK, and cross-platform (desktop + mobile). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nikitaclicks/obsidian-openagent"
+  },
+  {
+    "id": "speaknotes",
+    "name": "SpeakNotes",
+    "author": "jacklillie",
+    "description": "Transcribe and summarize audio and video into structured notes. Record voice memos, import files, and sync your SpeakNotes library into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jacklillie/speaknotes-obsidian"
   },
   {
     "id": "kohi",
@@ -46394,13 +46401,6 @@
     "author": "arasan95",
     "description": "Designate one pane as your \"Main Pane\" and route file opens (links, switcher, explorer, search, backlinks, graph, new notes, and more) to that pane. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "arasan95/obsidian-main-pane"
-  },
-  {
-    "id": "chat-lab",
-    "name": "Chat Lab AI",
-    "author": "Deepak Vaid",
-    "description": "AI-powered chat with multi-device relay, agentic tools, and collaborative conversation. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "space-cadet/obsidian-ai"
   },
   {
     "id": "harness-like",
