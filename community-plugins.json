@@ -2949,7 +2949,7 @@
   {
     "id": "obsidian-jira-issue",
     "name": "Jira Issue",
-    "author": "marc0l92",
+    "author": "Obsidian-jira-plugin",
     "description": "Track the progress of Atlassian Jira issues from your notes.",
     "repo": "obsidian-jira-plugin/obsidian-jira-issue"
   },
@@ -27319,13 +27319,6 @@
     "author": "Mapherez",
     "description": "Manual self-hosted sync for your vaults. Requires a user-run NoX Sync backend. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mapherez/nox-sync"
-  },
-  {
-    "id": "pluto-hub",
-    "name": "Pluto Hub",
-    "author": "xiajianduan",
-    "description": "A powerful Obsidian plugin that allows users to manage, edit, and run local code modules, providing rich extensibility for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "xiajianduan/obsidian-pluto-hub"
   },
   {
     "id": "corkboard",
@@ -51721,6 +51714,13 @@
     "author": "Sachet Sangamesh Mulimani",
     "description": "Synchronize selected vault files with a GitHub repository using the GitHub REST API. Works on desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "msachet5/obsidian-ultisync"
+  },
+  {
+    "id": "insert-image-plus",
+    "name": "Insert Image Plus",
+    "author": "Yosuke Tanji",
+    "description": "Insert images and Excalidraw drawings from a thumbnail grid grouped by filename prefix (icon, logo, ...), and manage them one file at a time. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yosukedesign/insert-image-plus"
   },
   {
     "id": "notelets",
