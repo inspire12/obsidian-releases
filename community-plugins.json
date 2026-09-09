@@ -35288,7 +35288,7 @@
   },
   {
     "id": "spider",
-    "name": "spider",
+    "name": "Spider",
     "author": "huangtao",
     "description": "AI chat branches as an interactive knowledge map. Tab to drill down, arrow keys to navigate, structured exports. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "111pointer111/spider"
@@ -48636,13 +48636,6 @@
     "repo": "solankidushyant07/instagram-saves-manager"
   },
   {
-    "id": "task-wheel",
-    "name": "Task Wheel",
-    "author": "Max",
-    "description": "See every open task once, on purpose. Task Wheel is a visual overview for reviewing tasks: each one is a stop on a wheel you turn, so nothing hides at the bottom of a long todo list. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "maxonamission/obsidian-task-wheel"
-  },
-  {
     "id": "workbuddy-ai",
     "name": "WorkBuddy AI",
     "author": "bigbay",
@@ -51994,5 +51987,33 @@
     "author": "Tanapat Eiam-arj",
     "description": "Add live, configurable widgets such as countdowns to Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "puemmth/obsidian-markdown-widgets"
+  },
+  {
+    "id": "superpowers",
+    "name": "Superpowers",
+    "author": "Iñigo Cilveti",
+    "description": "Build and evolve your own Obsidian capabilities through conversation. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cilvet/obsidian-superpowers"
+  },
+  {
+    "id": "headings",
+    "name": "Headings",
+    "author": "cycsd",
+    "description": "Navigate, copy, select, align, and move Markdown headings. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cycsd/Headings"
+  },
+  {
+    "id": "summarize-video-to-text",
+    "name": "Summarize Video To Text",
+    "author": "xilidou",
+    "description": "Turn a YouTube, TikTok or Instagram video into a structured note: TL;DR, key insights, timestamped chapters, optional summary, quiz and transcript. Requires a summarizevideototext.com account. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "diaozxin007/obsidian-summarize-video-to-text"
+  },
+  {
+    "id": "baidu-save-retry",
+    "name": "Baidu Netdisk Sync Notice",
+    "author": "杲源",
+    "description": "Retry transient EBUSY save failures caused by Baidu Netdisk and control sync-lock notices. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gaoyuan239164/baidu-netdisk-sync-notice"
   }
 ]
