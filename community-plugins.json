@@ -9278,7 +9278,7 @@
     "id": "chord-sheets",
     "name": "Chord Sheets",
     "author": "olvidalo",
-    "description": "Work with chord sheets (chords over lyrics or inline) in Live Preview and reading mode: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll, and more.",
+    "description": "Work with chord sheets (chords over lyrics or inline) in Live Preview and reading mode: Chord diagrams for guitar, ukulele, mandolin and piano, transpose, autoscroll, and more.",
     "repo": "olvidalo/obsidian-chord-sheets"
   },
   {
@@ -22844,7 +22844,7 @@
     "id": "universal-cursor-hotkeys",
     "name": "Universal Cursor Hotkeys",
     "author": "shichishima",
-    "description": "Full cursor navigation for Markdown — whether in tables or out, either on macOS or Windows, be it Emacs keybindings or Vim mode. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Markdown table-aware cursor navigation & Chinese/Japanese word splitting — for Vim mode, for Emacs keybindings, and for Everyone. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "shichishima/obsidian-universal-cursor-hotkeys"
   },
   {
@@ -27321,6 +27321,13 @@
     "repo": "mapherez/nox-sync"
   },
   {
+    "id": "pluto-hub",
+    "name": "Pluto Hub",
+    "author": "xiajianduan",
+    "description": "A powerful Obsidian plugin that allows users to manage, edit, and run local code modules, providing rich extensibility for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xiajianduan/obsidian-pluto-hub"
+  },
+  {
     "id": "corkboard",
     "name": "Corkboard",
     "author": "victor",
@@ -28166,13 +28173,6 @@
     "author": "MellowMarsh",
     "description": "Translucent window backgrounds on Windows — acrylic blur, mica, and theme-aware tint overlays. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mellowmarsh-git/Obsidian-Translucent-BG"
-  },
-  {
-    "id": "four-d-eisenhower-matrix",
-    "name": "4D Eisenhower Matrix",
-    "author": "Jaroslav Krčál",
-    "description": "Visualize tasks across your vault in a 5-quadrant Eisenhower matrix (DO / DECIDE / DELEGATE / DELETE / OPEN) + Kanban view. Reads and writes standard task — tags, due/start/done dates, and priority. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "krcaljaroslav/4D-eisenhower-matrix"
   },
   {
     "id": "link-extractor",
@@ -33983,6 +33983,13 @@
     "author": "sdking",
     "description": "Render draw.io diagrams inline in your notes with zoom, pan, and multi-page support. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sdkay/obsidian-drawio-view"
+  },
+  {
+    "id": "slide-and-reveal",
+    "name": "Slide and Reveal",
+    "author": "Grub Basket",
+    "description": "Scroll-to-reveal flashcard study for diagrams/images. Right-click any folder to open it as a Slide & Reveal view: drop covers over each label, then scroll in place to uncover them one pair at a time. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/SnR"
   },
   {
     "id": "image-actions",
@@ -40575,7 +40582,7 @@
     "id": "word-smith",
     "name": "Word-Smith",
     "author": "sadsnake1",
-    "description": "Dedicated Writing Suite - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "The ultimate Dedicated Writing Suite - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sadsnake1/word-smith"
   },
   {
@@ -40892,6 +40899,13 @@
     "author": "Doug (FIRE University)",
     "description": "Import your Kobo highlights into Obsidian: one clean note per book, sorted by true reading order and grouped by chapter, with your own notes protected. Reads from a connected Kobo eReader or the Kobo desktop app. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fire-university/paperfolio-obsidian"
+  },
+  {
+    "id": "graph-insight",
+    "name": "Advanced Graph View",
+    "author": "n23eos",
+    "description": "Alternative graph view for large vaults with 3D visualization, clusters, PageRank and color schemes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "n23eos/advanced_graph_view"
   },
   {
     "id": "mq",
@@ -48902,13 +48916,6 @@
     "repo": "onefishmanx/obsidian-todo-note"
   },
   {
-    "id": "docwen-assistant",
-    "name": "DocWen Assistant",
-    "author": "ZhengYX",
-    "description": "Open files, convert, proofread, and control local DocWen through the public DocWenCLI protocol. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zhyx91/obsidian-docwen-assistant"
-  },
-  {
     "id": "clipmd",
     "name": "Clip2MD",
     "author": "Clip2MD",
@@ -51443,6 +51450,13 @@
     "repo": "drshajul/obsidian-any-table-sort"
   },
   {
+    "id": "inflow",
+    "name": "InFlow",
+    "author": "MarcBolo",
+    "description": "让词库的灵感流入笔尖——自建词库智能联想补全、场景/角色/对话格式一键插入、场景自动编号、时间戳与悬浮快捷面板。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "marcbolo/Inflow"
+  },
+  {
     "id": "regen",
     "name": "Regen",
     "author": "loopman90",
@@ -51947,6 +51961,13 @@
     "repo": "xcloud-ai/xu-homepages"
   },
   {
+    "id": "pdf-selection-translator",
+    "name": "PDF Selection Translator",
+    "author": "Actify",
+    "description": "Translate selected PDF words and passages with your own OpenAI-compatible model, alongside PDF++. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xfrrn/obsidian-pdf-selection-translator"
+  },
+  {
     "id": "style-tweaker",
     "name": "Style Tweaker",
     "author": "Kevin",
@@ -52085,5 +52106,33 @@
     "author": "Mateo Jiménez Moraleda",
     "description": "Self-hosted NAS overview, calendar, daily notes, and optional private vault synchronization. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mateojimmor/nas-vault-sync"
+  },
+  {
+    "id": "editor-breadcrumbs",
+    "name": "Editor Breadcrumbs",
+    "author": "xyls184",
+    "description": "VS Code style breadcrumb trail (folder, file, headings) at the top of the editor, following the cursor. Click any crumb to jump. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xyls184/obsidian-editor-breadcrumbs"
+  },
+  {
+    "id": "qiaomu-reader",
+    "name": "Qiaomu Reader",
+    "author": "向阳乔木",
+    "description": "Read EPUB, PDF, MOBI, FB2 and comics with highlights, notes, progress, custom fonts and optional AI assistance. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "joeseesun/qiaomu-reader"
+  },
+  {
+    "id": "sidebar-layouts",
+    "name": "Sidebar Layouts",
+    "author": "Ruben Khachaturov",
+    "description": "Keep several arrangements of a sidebar: three panels stacked for one task, a single full-height panel for another, switched with one button. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mrkhachaturov/obsidian-sidebar-layouts"
+  },
+  {
+    "id": "link-button-sidebar",
+    "name": "Link Button Sidebar",
+    "author": "dmi-kud",
+    "description": "Insert frequently used wiki links from configurable, grouped sidebar buttons. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dmikud/obsidian-link-button-sidebar"
   }
 ]
