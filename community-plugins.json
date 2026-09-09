@@ -33985,13 +33985,6 @@
     "repo": "sdkay/obsidian-drawio-view"
   },
   {
-    "id": "slide-and-reveal",
-    "name": "Slide and Reveal",
-    "author": "Grub Basket",
-    "description": "Scroll-to-reveal flashcard study for diagrams/images. Right-click any folder to open it as a Slide & Reveal view: drop covers over each label, then scroll in place to uncover them one pair at a time. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "grub-basket/SnR"
-  },
-  {
     "id": "image-actions",
     "name": "Image Actions",
     "author": "maoxiaoke",
@@ -41783,13 +41776,6 @@
     "repo": "vulture039/obsidian-mindmap-editor"
   },
   {
-    "id": "scuttlebutt",
-    "name": "Scuttlebutt",
-    "author": "Quek Kar Min",
-    "description": "Scuttlebutt - Record or import meeting audio in the sidebar, transcribe it with your local Whisper/vLLM server, then auto-summarize it into a tidy, tagged note. Fully local and private. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "qkm2000/Scuttlebutt"
-  },
-  {
     "id": "notion-pull-lite",
     "name": "N2O Sync Lite",
     "author": "Simha",
@@ -42299,13 +42285,6 @@
     "author": "jepicaju862-lab",
     "description": "Local structured data in .duowei files, with table, kanban, and gallery views plus a Bases-compatible layout. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jepicaju862-lab/duowei-table"
-  },
-  {
-    "id": "vault-change-feed",
-    "name": "Vault Change Feed",
-    "author": "kains",
-    "description": "Records vault changes as a machine-readable feed with per-reader cursors, so AI assistants can incrementally catch up on what you changed. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kains2866/vault-change-feed"
   },
   {
     "id": "ridiculous-coding",
@@ -51938,6 +51917,13 @@
     "author": "fodoj",
     "description": "Sync selected notes and folders to formatted Basecamp documents. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mkdev-me/obsidian-basecamp-sync"
+  },
+  {
+    "id": "xu-homepages",
+    "name": "XU Homepages",
+    "author": "xcloud-ai",
+    "description": "Open multiple notes as a startup layout, route homepages by weekday and time ranges, and restore the last session. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xcloud-ai/xu-homepages"
   },
   {
     "id": "pdf-selection-translator",
