@@ -29848,13 +29848,6 @@
     "repo": "joe-iq/obsidian-manuscript-outliner"
   },
   {
-    "id": "desktop-sidebar-gestures",
-    "name": "Desktop Sidebar Gestures",
-    "author": "Jared",
-    "description": "Directional desktop swipe gestures for opening and closing Obsidian sidebars. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nth-chile/obsidian-desktop-sidebar-gestures"
-  },
-  {
     "id": "nested-notes",
     "name": "Nested Notes",
     "author": "October",
@@ -49395,7 +49388,7 @@
     "id": "copy-guard",
     "name": "CopyGuard",
     "author": "k-tech-studio",
-    "description": "Find sync-conflict copies, empty files, and leftover temp files in the same folder, review them, and move only what you approve into a dedicated trash folder before deleting. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Find sync-conflict copies (Proton Drive, official Sync -conflict- names, Dropbox, and similar), empty files, and leftover temp files. Review them and move only what you approve. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "crossbeat461-a11y/copy-guard"
   },
   {
@@ -51597,13 +51590,6 @@
     "repo": "emarpiee/obsidian-rcrypt"
   },
   {
-    "id": "personal-workbench",
-    "name": "Personal Workbench",
-    "author": "gmsz-1603",
-    "description": "个人工作台（独立视图页签）：顶部统计横幅、查询栏、天气+农历+每日一签、农历万年历（节气/节日/生日/任务）、年度进度、今日任务、生日提醒；左右栏独立滚动。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "gmsz-1603/obsidian-personal-workbench"
-  },
-  {
     "id": "export-ics-schedule",
     "name": "Export ICS Schedule",
     "author": "lindongyan",
@@ -51800,6 +51786,13 @@
     "repo": "divaliu1408/selection-to-didaTask"
   },
   {
+    "id": "quick-switch-sidebar",
+    "name": "Quick Switch Sidebar",
+    "author": "travisluong",
+    "description": "Browse folders and immediately open selected notes without leaving the sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "travisluong/quick-switch-sidebar"
+  },
+  {
     "id": "context-focus",
     "name": "Context Focus",
     "author": "Bag of Tips",
@@ -51838,7 +51831,7 @@
     "id": "library-shelf",
     "name": "Library Shelf",
     "author": "toyotathief",
-    "description": "A cover-grid library for books and films. Entries live as rows in a ledger note — no file per title unless it earns one. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Library shelves for books and movies. Entries live as rows in a ledger note — no file per title unless it earns one. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "toya-co/library-shelf"
   },
   {
