@@ -50855,13 +50855,6 @@
     "repo": "christinahyh/Release-File-Publisher"
   },
   {
-    "id": "workbench-dashboard",
-    "name": "Lyra",
-    "author": "Miyoung_liu",
-    "description": "Obsidian 内打开好看的工作台：任务汇总 + 看板拖拽 + 笔记卡片墙，实时读写 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miyoungliu/obsidian-workbench-dashboard"
-  },
-  {
     "id": "rich-mindmap",
     "name": "Rich Mindmap",
     "author": "Younian",
@@ -51933,13 +51926,6 @@
     "repo": "arigurj/uzbek-writing-suite"
   },
   {
-    "id": "graphiques",
-    "name": "Graphiques",
-    "author": "pierre",
-    "description": "Draw graphs and figures in your notes: coordinate grid, function curves, lines, geometric shapes, computed intersection points and tangents, with PNG and PDF export. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ppocass/obsidian-graphiques"
-  },
-  {
     "id": "assistant-emily",
     "name": "Assistant Emily",
     "author": "SUNGWON PARK",
@@ -52071,5 +52057,19 @@
     "author": "Tallon",
     "description": "Preview Markdown with WeChat-friendly formatting and copy rich text with hosted images. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "miracle0828/dou-publish-for-wechat"
+  },
+  {
+    "id": "flymind",
+    "name": "FlyMind",
+    "author": "fairyang",
+    "description": "打赏+v: zionboy,支付宝:bitmoney@139.com。将 Markdown 笔记转换为交互式思维导图，支持同标签切换、水平与垂直布局、段落折叠、自由拖动和焦点缩放。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "smofox/flymind"
+  },
+  {
+    "id": "cloud-image-uploader",
+    "name": "Cloud Image Uploader",
+    "author": "huakaifang",
+    "description": "Upload pasted or dropped images and attachments to Alibaba Cloud OSS. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "huakaifang/cloud-image-uploader"
   }
 ]
