@@ -5174,5 +5174,12 @@
     "repo": "beingbrendan/Lick",
     "screenshot": "preview.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Night Owl Classic",
+    "author": "astroair",
+    "repo": "mspirek/night-owl-classic",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
   }
 ]

@@ -42021,6 +42021,13 @@
     "repo": "elijahchan2019/plugin-html_live_editor"
   },
   {
+    "id": "style-context",
+    "name": "Style Context",
+    "author": "Moy",
+    "description": "A CSS snippet helper. Register local images as CSS variables, quickly set vault backgrounds, expose the current theme on body for theme-specific styling, and auto-add cssclasses per folder. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "moyf/style-context"
+  },
+  {
     "id": "vaultquiz",
     "name": "VaultQuiz",
     "author": "ricardo de castro pereira filho",
@@ -48639,7 +48646,7 @@
     "id": "task-wheel",
     "name": "Task Wheel",
     "author": "Max",
-    "description": "See every open task once, on purpose. Task Wheel is a visual overview for reviewing tasks: each one is a stop on a wheel you turn, so nothing hides at the bottom of a long todo list. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "See every open task once, on purpose. Task Wheel visualises all your tasks to help you manage them: each one is a stop on a wheel you turn, so nothing hides at the bottom of a long todo list. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxonamission/obsidian-task-wheel"
   },
   {
@@ -51933,13 +51940,6 @@
     "repo": "sparklings/emily"
   },
   {
-    "id": "basecamp-sync",
-    "name": "Basecamp Sync",
-    "author": "fodoj",
-    "description": "Sync selected notes and folders to formatted Basecamp documents. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mkdev-me/obsidian-basecamp-sync"
-  },
-  {
     "id": "xu-homepages",
     "name": "XU Homepages",
     "author": "xcloud-ai",
@@ -52066,10 +52066,24 @@
     "repo": "smofox/flymind"
   },
   {
+    "id": "fleur-epub",
+    "name": "FleurEPUB",
+    "author": "JC5",
+    "description": "Read EPUB books with highlights, wavy underlines, comments, full-text search and AI annotations — the FleurPDF experience for e-books. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gibsonchan-5/fleur-epub"
+  },
+  {
     "id": "cloud-image-uploader",
     "name": "Cloud Image Uploader",
     "author": "huakaifang",
     "description": "Upload pasted or dropped images and attachments to Alibaba Cloud OSS. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "huakaifang/cloud-image-uploader"
+  },
+  {
+    "id": "mynasbridge",
+    "name": "NAS Vault",
+    "author": "Mateo Jiménez Moraleda",
+    "description": "Self-hosted NAS overview, calendar, daily notes, and optional private vault synchronization. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mateojimmor/nas-vault-sync"
   }
 ]
