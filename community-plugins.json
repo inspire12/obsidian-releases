@@ -41776,6 +41776,13 @@
     "repo": "vulture039/obsidian-mindmap-editor"
   },
   {
+    "id": "scuttlebutt",
+    "name": "Scuttlebutt",
+    "author": "Quek Kar Min",
+    "description": "Scuttlebutt - Record or import meeting audio in the sidebar, transcribe it with your local Whisper/vLLM server, then auto-summarize it into a tidy, tagged note. Fully local and private. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "qkm2000/Scuttlebutt"
+  },
+  {
     "id": "notion-pull-lite",
     "name": "N2O Sync Lite",
     "author": "Simha",
@@ -42285,6 +42292,13 @@
     "author": "jepicaju862-lab",
     "description": "Local structured data in .duowei files, with table, kanban, and gallery views plus a Bases-compatible layout. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jepicaju862-lab/duowei-table"
+  },
+  {
+    "id": "vault-change-feed",
+    "name": "Vault Change Feed",
+    "author": "kains",
+    "description": "Records vault changes as a machine-readable feed with per-reader cursors, so AI assistants can incrementally catch up on what you changed. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kains2866/vault-change-feed"
   },
   {
     "id": "ridiculous-coding",
@@ -47141,7 +47155,7 @@
     "id": "k-tech-heading-jump-fix",
     "name": "Heading Jump Fix",
     "author": "k-tech-studio",
-    "description": "Auto-correct scroll position after outline or heading clicks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Auto-correct scroll after outline, wikilink, heading, and block-reference clicks, including Reading view, so one click is enough. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "crossbeat461-a11y/k-tech-heading-jump-fix"
   },
   {
@@ -51947,10 +51961,38 @@
     "repo": "haivri/obsidian-page-lock"
   },
   {
+    "id": "llm-text-assistant",
+    "name": "LLM Text Assistant",
+    "author": "s1t5",
+    "description": "Process, translate and refine selected text with any OpenAI-compatible LLM directly in the editor. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "s1t5/LLM-Text-Assistant-Obsidian"
+  },
+  {
     "id": "inplace-diff-view",
     "name": "In-place Diff View",
     "author": "glech",
     "description": "Renders {old | new} and {note|...} correction markers with a hover tooltip to accept, reject, or delete them. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "glechic/inplace-diff-view"
+  },
+  {
+    "id": "properties-to-graph",
+    "name": "Properties to Graph",
+    "author": "Clint Bird",
+    "description": "Adds property based grouping to Obsidians graph view - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "clintjb/Properties-To-Graph"
+  },
+  {
+    "id": "asyncapi-renderer",
+    "name": "AsyncAPI Renderer",
+    "author": "Grancar",
+    "description": "Render AsyncAPI specification files (2.x and 3.x) with a source editor. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grancar/obsidian-asynapi-renderer"
+  },
+  {
+    "id": "markdown-widgets",
+    "name": "Markdown Widgets",
+    "author": "Tanapat Eiam-arj",
+    "description": "Add live, configurable widgets such as countdowns to Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "puemmth/obsidian-markdown-widgets"
   }
 ]
