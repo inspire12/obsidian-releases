@@ -42014,13 +42014,6 @@
     "repo": "elijahchan2019/plugin-html_live_editor"
   },
   {
-    "id": "style-context",
-    "name": "Style Context",
-    "author": "Moy",
-    "description": "A CSS snippet helper. Register local images as CSS variables, quickly set vault backgrounds, expose the current theme on body for theme-specific styling, and auto-add cssclasses per folder. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "moyf/style-context"
-  },
-  {
     "id": "vaultquiz",
     "name": "VaultQuiz",
     "author": "ricardo de castro pereira filho",
@@ -48636,6 +48629,13 @@
     "repo": "solankidushyant07/instagram-saves-manager"
   },
   {
+    "id": "task-wheel",
+    "name": "Task Wheel",
+    "author": "Max",
+    "description": "See every open task once, on purpose. Task Wheel is a visual overview for reviewing tasks: each one is a stop on a wheel you turn, so nothing hides at the bottom of a long todo list. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "maxonamission/obsidian-task-wheel"
+  },
+  {
     "id": "workbuddy-ai",
     "name": "WorkBuddy AI",
     "author": "bigbay",
@@ -51814,6 +51814,13 @@
     "repo": "wrngo/an-tou"
   },
   {
+    "id": "ob-mail-client",
+    "name": "Mail as Notes",
+    "author": "l4fu",
+    "description": "在 Obsidian 中收发邮件的邮件客户端插件，支持 Keychain 密码管理、HTML 邮件安全显示、CSS 元数据驱动渲染 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "l4fu/obsidian-mail"
+  },
+  {
     "id": "library-shelf",
     "name": "Library Shelf",
     "author": "toyotathief",
@@ -51863,6 +51870,13 @@
     "repo": "elliott-json-park/obsidian-class-timetable"
   },
   {
+    "id": "graphviz",
+    "name": "Graphviz View",
+    "author": "jw0785",
+    "description": "Add graphviz support - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jw0785/obsidian-graphviz-plugin"
+  },
+  {
     "id": "tablebase",
     "name": "TableBase",
     "author": "Aleksei Chekodanov",
@@ -51905,6 +51919,13 @@
     "repo": "mrtinhnguyen/vietnam-ai-rss"
   },
   {
+    "id": "uzbek-writing-suite",
+    "name": "Uzbek Writing Suite",
+    "author": "Aristarkh Khalmirzaev",
+    "description": "Полный набор инструментов для узбекского письма: спеллчекер со словарём, конвертер скриптов (Latin; Cyrillic; Phonetic), цитатник дня. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arigurj/uzbek-writing-suite"
+  },
+  {
     "id": "graphiques",
     "name": "Graphiques",
     "author": "pierre",
@@ -51931,13 +51952,6 @@
     "author": "xcloud-ai",
     "description": "Open multiple notes as a startup layout, route homepages by weekday and time ranges, and restore the last session. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xcloud-ai/xu-homepages"
-  },
-  {
-    "id": "pdf-selection-translator",
-    "name": "PDF Selection Translator",
-    "author": "Actify",
-    "description": "Translate selected PDF words and passages with your own OpenAI-compatible model, alongside PDF++. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "xfrrn/obsidian-pdf-selection-translator"
   },
   {
     "id": "pcloud-vault-clone",
@@ -52010,10 +52024,38 @@
     "repo": "diaozxin007/obsidian-summarize-video-to-text"
   },
   {
+    "id": "table-resize",
+    "name": "Table Resize",
+    "author": "lishuai1993",
+    "description": "Drag to resize markdown table column widths - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lishuai1993/obsidian-table-resizer"
+  },
+  {
     "id": "baidu-save-retry",
     "name": "Baidu Netdisk Sync Notice",
     "author": "杲源",
     "description": "Retry transient EBUSY save failures caused by Baidu Netdisk and control sync-lock notices. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gaoyuan239164/baidu-netdisk-sync-notice"
+  },
+  {
+    "id": "focus-outline-panel",
+    "name": "Focus Outline Panel",
+    "author": "Aristarkh Khalmirzaev",
+    "description": "Floating sidebar panel with live outline of the current note, collapsible by levels, synced to viewport scroll position. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arigurj/focus-outline-panel"
+  },
+  {
+    "id": "local-speech-recognition",
+    "name": "Local Speech Recognition",
+    "author": "Alfred Clark",
+    "description": "Use the locally deployed sherpa-onnx service to realize offline speech recognition in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "alfredclark/obsidian-local-speech-recognition"
+  },
+  {
+    "id": "dou-publish-preview",
+    "name": "Dou Publish for WeChat",
+    "author": "Tallon",
+    "description": "Preview Markdown with WeChat-friendly formatting and copy rich text with hosted images. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miracle0828/dou-publish-for-wechat"
   }
 ]
