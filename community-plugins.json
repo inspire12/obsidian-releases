@@ -19404,13 +19404,6 @@
     "repo": "twrusstw/penny-wallet"
   },
   {
-    "id": "canvas-card-materializer",
-    "name": "Canvas Card-Materializer",
-    "author": "redsheep913",
-    "description": "Materialize Canvas cards into organized Markdown files with auto-folder categorization, preserving connections and colors. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "redsheep913/Canvas-Card-Materializer"
-  },
-  {
     "id": "llr",
     "name": "Live Life Recording",
     "author": "goryugocast",
@@ -28173,6 +28166,13 @@
     "author": "MellowMarsh",
     "description": "Translucent window backgrounds on Windows — acrylic blur, mica, and theme-aware tint overlays. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mellowmarsh-git/Obsidian-Translucent-BG"
+  },
+  {
+    "id": "four-d-eisenhower-matrix",
+    "name": "4D Eisenhower Matrix",
+    "author": "Jaroslav Krčál",
+    "description": "Visualize tasks across your vault in a 5-quadrant Eisenhower matrix (DO / DECIDE / DELEGATE / DELETE / OPEN) + Kanban view. Reads and writes standard task — tags, due/start/done dates, and priority. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "krcaljaroslav/4D-eisenhower-matrix"
   },
   {
     "id": "link-extractor",
@@ -41223,6 +41223,13 @@
     "repo": "philpalmieri/obsidian-taskgregator"
   },
   {
+    "id": "smart-quiz-tutor",
+    "name": "Smart Question Tutor",
+    "author": "XXJ",
+    "description": "读取本地md知识库，调用Ollama/OpenAI兼容API自动生成试题，支持导出MD、Word、PDF，AI识别试卷、错题本、间隔复习 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xxinjie21/Smart-Quiz-Tutor"
+  },
+  {
     "id": "easyfilereplace",
     "name": "Easy File Replace",
     "author": "SrPernax",
@@ -52125,7 +52132,7 @@
     "id": "sidebar-layouts",
     "name": "Sidebar Layouts",
     "author": "Ruben Khachaturov",
-    "description": "Keep several arrangements of a sidebar: three panels stacked for one task, a single full-height panel for another, switched with one button. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Keep your document open while your sidebars change. Switch between a stack of panels and a full-height chat with one click. Save independent layouts for the left and right sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mrkhachaturov/obsidian-sidebar-layouts"
   },
   {
@@ -52134,5 +52141,12 @@
     "author": "dmi-kud",
     "description": "Insert frequently used wiki links from configurable, grouped sidebar buttons. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dmikud/obsidian-link-button-sidebar"
+  },
+  {
+    "id": "triggers",
+    "name": "Triggers",
+    "author": "Ruben Khachaturov",
+    "description": "Make your vault react to what you open. Automatically run commands and QuickAdd choices for Markdown, Canvas, Bases, and Excalidraw, with rules based on file paths and note properties. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mrkhachaturov/obsidian-triggers"
   }
 ]
