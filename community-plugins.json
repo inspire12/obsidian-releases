@@ -37905,6 +37905,13 @@
     "repo": "russquan/slidedope"
   },
   {
+    "id": "trade-rythm",
+    "name": "Trade Rythm",
+    "author": "iblameaza",
+    "description": "Personal trading journal — table view, inline editing, PnL dashboard, checklist templates, draggable lists, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "iblameaza/Trade-Rythm"
+  },
+  {
     "id": "copy-file-to-clipboard",
     "name": "Copy File to Clipboard",
     "author": "Xabi",
@@ -48876,7 +48883,7 @@
   {
     "id": "callout-tracker",
     "name": "Callout Tracker",
-    "author": "David Grasböck",
+    "author": "InfernoMoon",
     "description": "Collect matching callouts from your vault in a clickable index. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "infernomoon/callout-tracker"
   },
@@ -48925,7 +48932,7 @@
   {
     "id": "dnd-wiki",
     "name": "DnD Wiki",
-    "author": "David Grasböck",
+    "author": "InfernoMoon",
     "description": "Turn D&D wiki content into interactive reference cards and filtered lists in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "infernomoon/dnd-wiki"
   },
@@ -51667,13 +51674,6 @@
     "repo": "irisable/png-webp-companion"
   },
   {
-    "id": "bookview",
-    "name": "BookView",
-    "author": "nonkuri",
-    "description": "A PDF and EPUB reader with two-page spread support for right-to-left bound (vertical Japanese) books, including an Acrobat-style cover page option. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nonkuri/obsidian-bookview"
-  },
-  {
     "id": "embed-link",
     "name": "Embed Link",
     "author": "LiShaocheng",
@@ -51898,6 +51898,13 @@
     "repo": "keyoneway/image-relinker"
   },
   {
+    "id": "uncommon-terminal",
+    "name": "Uncommon Terminal",
+    "author": "Ron Amosa",
+    "description": "Run a real shell in a pane, rendered by Ghostty's terminal parser. Mouse-aware TUIs scroll properly. macOS and Linux. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ronamosa/uncommon-terminal"
+  },
+  {
     "id": "vibed",
     "name": "Vibed",
     "author": "Roman",
@@ -51952,6 +51959,13 @@
     "author": "xcloud-ai",
     "description": "Open multiple notes as a startup layout, route homepages by weekday and time ranges, and restore the last session. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xcloud-ai/xu-homepages"
+  },
+  {
+    "id": "style-tweaker",
+    "name": "Style Tweaker",
+    "author": "Kevin",
+    "description": "Customize the app's appearance with fine-grained style tweaks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tracingorigins/obsidian-style-tweaker-plugin"
   },
   {
     "id": "pcloud-vault-clone",
