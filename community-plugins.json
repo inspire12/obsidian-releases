@@ -51263,7 +51263,7 @@
   {
     "id": "task-cascade",
     "name": "Task Cascade",
-    "author": "nikvoronin",
+    "author": "Nikolai Voronin",
     "description": "Keeps parent checkboxes in sync with their children's status using configurable rules. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nikvoronin/task-cascade"
   },
@@ -51959,6 +51959,13 @@
     "author": "SUNGWON PARK",
     "description": "Intelligent Markdown proofreading and translation specialized plugin with OpenAI-compatible LLM proxy support. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sparklings/emily"
+  },
+  {
+    "id": "quick-notes-board",
+    "name": "Quick Notes Board",
+    "author": "Alessandro Vettorel",
+    "description": "A desktop board for creating, organizing, and managing quick Markdown notes — categories, groups, labels, alarms, and more — all saved in a single file. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "avettorel71/quick-notes-board"
   },
   {
     "id": "xu-homepages",

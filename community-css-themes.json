@@ -5125,5 +5125,12 @@
     "repo": "mspirek/night-owl-classic",
     "screenshot": "screenshot.png",
     "modes": ["dark"]
+  },
+  {
+    "name": "Copper Rose",
+    "author": "Janet A. Cargile",
+    "repo": "ramenofficialgovpatsy/Cooper-Rose",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
