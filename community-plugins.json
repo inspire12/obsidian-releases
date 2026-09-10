@@ -43269,9 +43269,9 @@
   {
     "id": "inoh",
     "name": "Inoh",
-    "author": "tai",
+    "author": "inoh-app",
     "description": "Highlights words from your Inoh vocabulary deck as you write and adds new ones without leaving your notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "taisukemino/inoh-obsidian"
+    "repo": "inoh-app/inoh-obsidian"
   },
   {
     "id": "aloha",
@@ -44789,7 +44789,7 @@
     "id": "single-file-section-cards",
     "name": "Single File Section Cards",
     "author": "JORDAN LONG",
-    "description": "View any note's subsections and linked images/URLs as a set of cards. Edit, reorder, add and delete document sections graphically. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "View any note's subsections and linked images/URLs as a set of cards. Edit, reorder, flip, add and delete document sections graphically. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jordanlong121/singlefilesectioncards"
   },
   {
@@ -51989,13 +51989,6 @@
     "repo": "tracingorigins/obsidian-style-tweaker-plugin"
   },
   {
-    "id": "pcloud-vault-clone",
-    "name": "pCloud Sync",
-    "author": "Laszlo Repassy",
-    "description": "Sync your vault to a pCloud folder as plain, unencrypted files. Notes edited on two devices are merged paragraph by paragraph, right in the note, with no separate conflict files. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "laszlorepassy/pcloud-sync"
-  },
-  {
     "id": "page-lock",
     "name": "Page Lock",
     "author": "Robert Fleming",
@@ -52155,5 +52148,19 @@
     "author": "Ruben Khachaturov",
     "description": "Make your vault react to what you open. Automatically run commands and QuickAdd choices for Markdown, Canvas, Bases, and Excalidraw, with rules based on file paths and note properties. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mrkhachaturov/obsidian-triggers"
+  },
+  {
+    "id": "link-flair",
+    "name": "Link Flair",
+    "author": "Igor Hajduk",
+    "description": "Display web, app, and internal links with icons and readable titles while preserving your Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "igorhajduk/obsidian-link-flair"
+  },
+  {
+    "id": "labtab-markdown-sync",
+    "name": "LabTab Markdown Sync",
+    "author": "LabTab",
+    "description": "Keep a read-only copy of selected LabTab wiki and meeting notes in your Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "labtabapp/labtab-obsidian-plugin"
   }
 ]
