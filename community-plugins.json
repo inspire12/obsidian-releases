@@ -52150,6 +52150,13 @@
     "repo": "mrkhachaturov/obsidian-triggers"
   },
   {
+    "id": "scholar-bridge",
+    "name": "ScholarBridge",
+    "author": "xiang09",
+    "description": "Academic writing bridge: LaTeX Markdown conversion, Chinese/English/formula-aware diff, and local llama.cpp translation. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shuhuanxiang/scholar-bridge"
+  },
+  {
     "id": "link-flair",
     "name": "Link Flair",
     "author": "Igor Hajduk",
