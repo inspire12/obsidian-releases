@@ -29974,13 +29974,6 @@
     "repo": "rafaelmehdiyev/obsidian-vim-cheatsheet"
   },
   {
-    "id": "cmds-eagle",
-    "name": "CMDS Eagle",
-    "author": "Yohan Koo",
-    "description": "Connect Eagle asset library to Obsidian. Search, embed, and upload images to cloud (ImgHippo, R2, S3, WebDAV). - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "johnfkoo951/cmds-eagle"
-  },
-  {
     "id": "antigravity-cli-sidebar",
     "name": "Antigravity CLI Sidebar",
     "author": "desmond wen",
@@ -44786,13 +44779,6 @@
     "repo": "github-xzhi/obsidian-suble-toc-plus"
   },
   {
-    "id": "single-file-section-cards",
-    "name": "Single File Section Cards",
-    "author": "JORDAN LONG",
-    "description": "View any note's subsections and linked images/URLs as a set of cards. Edit, reorder, flip, add and delete document sections graphically. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jordanlong121/singlefilesectioncards"
-  },
-  {
     "id": "unmemos",
     "name": "UNmemos",
     "author": "UNcore",
@@ -48233,7 +48219,7 @@
     "id": "handwriting",
     "name": "Handwriting",
     "author": "Alan Liu",
-    "description": "Write on your notes with a pen. Ink, highlighter, eraser, and lasso directly on Markdown, saved beside your files. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Handwrite, highlight, erase and lasso directly on your notes and PDFs. Your notes stay Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ellimist-afk/handwriting"
   },
   {
@@ -52115,6 +52101,13 @@
     "repo": "mateojimmor/nas-vault-sync"
   },
   {
+    "id": "card-kit",
+    "name": "CardKit",
+    "author": "wbl",
+    "description": "为 Canvas 卡片添加文字管理按钮：冒号悬挂对齐，换行续行自动挂在冒号右侧。Adds text management buttons for Canvas cards: colon hanging align. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "power-ioi/card-kit"
+  },
+  {
     "id": "editor-breadcrumbs",
     "name": "Editor Breadcrumbs",
     "author": "xyls184",
@@ -52169,5 +52162,19 @@
     "author": "LabTab",
     "description": "Keep a read-only copy of selected LabTab wiki and meeting notes in your Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "labtabapp/labtab-obsidian-plugin"
+  },
+  {
+    "id": "netron-viewer",
+    "name": "Netron Viewer",
+    "author": "Nicolas Widynski",
+    "description": "Render ONNX / TFLite / Core ML / PyTorch / Keras model architecture graphs inline in notes using a bundled copy of Netron, served over a local loopback HTTP server. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nicolaswidynski/netron-viewer"
+  },
+  {
+    "id": "pick-to-anki",
+    "name": "Pick2anki",
+    "author": "soyami",
+    "description": "划词即查：在线多源词典(有道/柯林斯英汉双解/牛津)聚合释义与音标，一键(或自动)通过 AnkiConnect 写入 Anki 指定牌组/模板，支持自定义字段映射与发音音频。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "soyami/pick2anki"
   }
 ]
